@@ -1,3 +1,4 @@
+title: dev.ac.uk
 twitter: devacuk
 github: devacuk
 name: dev.ac.uk
@@ -5,4 +6,4 @@ description: We make stuff. Supported by UCISA and Jisc.
 url: https://devacuk.github.io
 permalink: pretty
 paginate: 15
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minima
