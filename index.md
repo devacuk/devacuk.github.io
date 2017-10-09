@@ -2,7 +2,6 @@
 layout: default
 title: We make stuff
 ---
-<div id="home">
 # We make stuff
 ## dev.ac.uk: a unique free event by and for developers - Save the date
 
@@ -28,10 +27,3 @@ __When:__
 __Cost:__
 : Free to attend for institutional developers, including meals, refreshments and accommodation (travel costs not included)
  
-<div>dev.ac.uk will celebrate and showcase the work of developers at institutions</div>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-</div>
