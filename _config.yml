@@ -6,4 +6,4 @@ description: We make stuff. Supported by UCISA and Jisc.
 url: https://devacuk.github.io
 permalink: pretty
 paginate: 15
-theme: jekyll-theme-minima
+theme: jekyll-theme-minimal
