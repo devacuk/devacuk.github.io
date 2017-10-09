@@ -15,8 +15,6 @@ __Are you... ?__
  * Running, or in the throes of setting up, a DevOps capability at your institution?
  * Looking at how to deal with technical debt in your university or college?
  
-Save the date for dev.ac.uk, a unique event by and for developers, supported by UCISA and Jisc.  
- 
 __What:__
 : Two days of inspiring talks from developers at institutions
 : Hands on with new and emerging tech from the Jisc DigiLab
