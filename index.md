@@ -7,12 +7,13 @@ title: We make stuff
 
 UCISA and Jisc are working with the developer community to create a unique event that combines continuing professional development with exposure to the latest in emerging technologies, and gives developers who attend the opportunity to showcase their creativity.
  
- * Are you…       A Moodle hacking Learning Technologist?
- * Are you…       An HPC thrashing Research Software Engineer?
- * Are you…       An Oracle guru building mission critical systems for your institution?
- * Are you…       A scripting sysadmin, orchestrating on-premise and cloud services?
- * Are you…       Running, or in the throes of setting up, a DevOps capability at your institution?
- * Are you…       Looking at how to deal with technical debt in your university or college?
+__Are you... ?__
+ * A Moodle hacking Learning Technologist?
+ * An HPC thrashing Research Software Engineer?
+ * An Oracle guru building mission critical systems for your institution?
+ * A scripting sysadmin, orchestrating on-premise and cloud services?
+ * Running, or in the throes of setting up, a DevOps capability at your institution?
+ * Looking at how to deal with technical debt in your university or college?
  
 Save the date for dev.ac.uk, a unique event by and for developers, supported by UCISA and Jisc.  
  
