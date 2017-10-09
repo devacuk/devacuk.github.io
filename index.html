@@ -2,5 +2,12 @@
 layout: default
 title: dev.ac.uk - We Make Stuff
 ---
+<div id="home">
+<h1>dev.ac.uk - We Make Stuff</h1>
 Is this on?
+  <ul class="posts">
+    {% for post in site.posts %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+  </ul>
 
