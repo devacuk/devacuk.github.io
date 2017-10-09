@@ -20,10 +20,13 @@ __What:__
 : Two days of inspiring talks from developers at institutions
 : Hands on with new and emerging tech from the Jisc DigiLab
 : Unconference strand - a blank slate to make your own!
+
 __Where:__
 : Birmingham
+
 __When:__
 : Thursday 15th - Friday 16th February 2018
+
 __Cost:__
 : Free to attend for institutional developers, including meals, refreshments and accommodation (travel costs not included)
  
