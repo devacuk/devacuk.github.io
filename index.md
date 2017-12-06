@@ -14,7 +14,7 @@ __Are you... ?__
  * A scripting sysadmin, orchestrating on-premise and cloud services?
  * Running, or in the throes of setting up, a DevOps capability at your institution?
  * Looking at how to deal with technical debt in your university or college?
- 
+
 __What:__
 : Two days of inspiring talks from developers at institutions
 : Hands on with new and emerging tech from the Jisc DigiLab
@@ -28,4 +28,10 @@ __When:__
 
 __Cost:__
 : Free to attend for institutional developers, including meals, refreshments and accommodation (travel costs not included)
+
+__Register your interest:__
+
+Please use <a href="https://survey.vovici.com/se/31A1841621F17639">this survey link</a> to register your interest and to make suggestions for sessions.
+ 
+Please note that any data you supply in this UCISA survey will be shared between Jisc and UCISA, for the purpose of supporting this initiative and any follow on activities.    The two organisations will jointly review the applications received to ensure that there is a good spread of participants (by geography, interests, job type etc).  After that Jisc will write to successful and unsuccessful candidates, and provide event administration for this event.
  
