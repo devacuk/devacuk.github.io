@@ -13,7 +13,7 @@ Please use <a href="https://survey.vovici.com/se/31A1841621F17639">this survey l
 
 __Are you... ?__
  * A Moodle hacking Learning Technologist?
- * An HPC thrashing Research Software Engineer?
+ * A Research Software Engineer, writing the code that powers modern science?
  * An Oracle guru building mission critical systems for your institution?
  * A scripting sysadmin, orchestrating on-premise and cloud services?
  * Running, or in the throes of setting up, a DevOps capability at your institution?
