@@ -82,32 +82,48 @@ _NB: Formatting still needs tidying up_
 **Prerequisites for delegates attending the session:** I'll set up a github of downloads. Web host access would help as well
 
 # 6. Behaviour Driven Development with SpecFlow and Selenium - Antony Jackson, London Business School
-Description: A demo of an automated test suite we have built in C# / .Net using SpecFlow and Selenium Web Driver. Drill down into the Gherkin, SpecFlow and Selenium Web Driver code. Discussion of the lessons learned.
-Topics covered: BDD, SpecFlow, Gherkin, Continuous Delivery, Automated UI Testing, Selenium Web Driver.
-Approximate length of session: 1 hour
+
+**Description:** A demo of an automated test suite we have built in C# / .Net using SpecFlow and Selenium Web Driver. Drill down into the Gherkin, SpecFlow and Selenium Web Driver code. Discussion of the lessons learned.
+
+**Topics covered:** BDD, SpecFlow, Gherkin, Continuous Delivery, Automated UI Testing, Selenium Web Driver.
+
+**Approximate length of session:** 1 hour
 
 # 7. Implementing Agile working practices - John Paul Jones, University of Cumbria
-Description: A short presentation on implementing Agile working practices
-Approximate length of session: 10 minutes
+
+**Description:** A short presentation on implementing Agile working practices
+
+**Approximate length of session:** 10 minutes
 
 # 8. Dealing with technical debt - Christopher Gutteridge, University of Southampton
-Type of session: Presentation + workshop
-Description:     In the days of malware, GDPR and the rest, how do we cope with legacy systems built by you, or your predecessors, that are now a liability? How do we handle the politics of decades of evolving technology? Chris will start the session with a short talk on his experiences (15 minutes) and then lead a discussion to discuss people in the room’s challenges and the group’s suggestions on how to address them. A note taker will attempt to capture the best bits into a document we can improve on later and share with the community. This document https://docs.google.com/document/d/1vd8yOagTPPDcZsHpNMh-bIiKL3tjPDb4xrbXbP1hrdM/edit# was produced in a similar session last year.
-Topics to be covered:  Coping with technical debt, strategic procrastination, tips on tech and politics. 
-Approximate length of session: 60 mins
+
+**Type of session:** Presentation + workshop
+
+**Description:**     In the days of malware, GDPR and the rest, how do we cope with legacy systems built by you, or your predecessors, that are now a liability? How do we handle the politics of decades of evolving technology? Chris will start the session with a short talk on his experiences (15 minutes) and then lead a discussion to discuss people in the room’s challenges and the group’s suggestions on how to address them. A note taker will attempt to capture the best bits into a document we can improve on later and share with the community. This document https://docs.google.com/document/d/1vd8yOagTPPDcZsHpNMh-bIiKL3tjPDb4xrbXbP1hrdM/edit# was produced in a similar session last year.
+
+**Topics to be covered:**  Coping with technical debt, strategic procrastination, tips on tech and politics. 
+
+**Approximate length of session:** 60 mins
 
 # 7. Developing in the current higher education economic climate - Dr Joseph Baxter, University of Nottingham
-Type of session: Presentation 
-Description: As with all departments in institutions within higher education development teams are feeling the squeeze what steps can we take to ensure we 'do more with less' 
-Topics to be covered: Expanding your development community outside your team. Tackling technical debt. Freeing up developer's time from non-development tasks. End user involvement is the key to a successful system. 
-Approximate length of session: 30 minutes 
+
+**Type of session:** Presentation 
+
+**Description:** As with all departments in institutions within higher education development teams are feeling the squeeze what steps can we take to ensure we 'do more with less' 
+
+**Topics to be covered:** Expanding your development community outside your team. Tackling technical debt. Freeing up developer's time from non-development tasks. End user involvement is the key to a successful system. 
+
+**Approximate length of session:** 30 minutes 
 
 # 8. Test all the things! QA and CI at the OU - Mark Johnson, Open University
-Type of session: Presentation
-Description:
-The Open University has a large team of developers working on their VLE, delivering quarterly releases with 100+ features in each release, plus upstream changes from Moodle.  In this session we’ll look out how we maintain a high rate of delivery without breaking things.
-Topics to be covered: Quality assurance, automated testing, continuous integration, functionality testing, unit testing
-Approximate length of session: 20-30 minutes
+
+**Type of session:** Presentation
+
+**Description:** The Open University has a large team of developers working on their VLE, delivering quarterly releases with 100+ features in each release, plus upstream changes from Moodle.  In this session we’ll look out how we maintain a high rate of delivery without breaking things.
+
+**Topics to be covered:** Quality assurance, automated testing, continuous integration, functionality testing, unit testing
+
+**Approximate length of session:** 20-30 minutes
 
 # 11. Getting started with AWS - Stephen Robinson, Lancaster University
 Type of session: Presentation/Demo
