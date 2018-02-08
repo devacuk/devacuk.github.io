@@ -1,7 +1,7 @@
 
 _NB: Formatting still needs tidying up_
 
-## 1. The Life Academic - Chris Gutteridge, University of Southampton
+### 1. The Life Academic - Chris Gutteridge, University of Southampton
 
 **Type:** Presentation
 
@@ -11,7 +11,7 @@ _NB: Formatting still needs tidying up_
 
 **Duration:** 20-30 minutes
  
-## 2. A day in the life of a Research Software Engineer - James Grant, University of Bath
+### 2. A day in the life of a Research Software Engineer - James Grant, University of Bath
 
 **Type of session:** Presentation/Discussion
 
@@ -25,7 +25,7 @@ _NB: Formatting still needs tidying up_
 
 **Prerequisites for delegates attending the session:** None
 
-## 3. Create your first ARKit app in Unity3D - Suhad Aljundi, Jisc
+### 3. Create your first ARKit app in Unity3D - Suhad Aljundi, Jisc
 
 **Type of session:** presentation/hands-on
 
@@ -46,7 +46,7 @@ _NB: Formatting still needs tidying up_
   * iPhone 6S (or later) running a pre-release of iOS 11
   * A pre-release version of Xcode 9, and a patched version of Unity (Unity 5.6.1.p1 or later).
 
-## 4. Creating VR for Learning Spaces in Unreal Engine - Matt Ramirez, Jisc
+### 4. Creating VR for Learning Spaces in Unreal Engine - Matt Ramirez, Jisc
 
 **Description:**
   This presentation will examine how you can use the VR template included with Unreal Engine to quickly
@@ -67,7 +67,7 @@ _NB: Formatting still needs tidying up_
 * Some knowledge of 3d/ game engine software desirable not essential.
 * To follow along delegates could download Blender and/or Unreal Engine
 
-## 5. WordPress : getting started with the academic swiss army knife - Pat Lockley, Pgogy Webstuff
+### 5. WordPress : getting started with the academic swiss army knife - Pat Lockley, Pgogy Webstuff
 
 **Type of session:** Hands on
 
@@ -81,31 +81,31 @@ _NB: Formatting still needs tidying up_
 
 **Prerequisites for delegates attending the session:** I'll set up a github of downloads. Web host access would help as well
 
-## 6. Behaviour Driven Development with SpecFlow and Selenium - Antony Jackson, London Business School
+### 6. Behaviour Driven Development with SpecFlow and Selenium - Antony Jackson, London Business School
 
-**Description:** A demo of an automated test suite we have built in C## / .Net using SpecFlow and Selenium Web Driver. Drill down into the Gherkin, SpecFlow and Selenium Web Driver code. Discussion of the lessons learned.
+**Description:** A demo of an automated test suite we have built in C### / .Net using SpecFlow and Selenium Web Driver. Drill down into the Gherkin, SpecFlow and Selenium Web Driver code. Discussion of the lessons learned.
 
 **Topics covered:** BDD, SpecFlow, Gherkin, Continuous Delivery, Automated UI Testing, Selenium Web Driver.
 
 **Approximate length of session:** 1 hour
 
-## 7. Implementing Agile working practices - John Paul Jones, University of Cumbria
+### 7. Implementing Agile working practices - John Paul Jones, University of Cumbria
 
 **Description:** A short presentation on implementing Agile working practices
 
 **Approximate length of session:** 10 minutes
 
-## 8. Dealing with technical debt - Christopher Gutteridge, University of Southampton
+### 8. Dealing with technical debt - Christopher Gutteridge, University of Southampton
 
 **Type of session:** Presentation + workshop
 
-**Description:**     In the days of malware, GDPR and the rest, how do we cope with legacy systems built by you, or your predecessors, that are now a liability? How do we handle the politics of decades of evolving technology? Chris will start the session with a short talk on his experiences (15 minutes) and then lead a discussion to discuss people in the room’s challenges and the group’s suggestions on how to address them. A note taker will attempt to capture the best bits into a document we can improve on later and share with the community. This document https://docs.google.com/document/d/1vd8yOagTPPDcZsHpNMh-bIiKL3tjPDb4xrbXbP1hrdM/edit## was produced in a similar session last year.
+**Description:**     In the days of malware, GDPR and the rest, how do we cope with legacy systems built by you, or your predecessors, that are now a liability? How do we handle the politics of decades of evolving technology? Chris will start the session with a short talk on his experiences (15 minutes) and then lead a discussion to discuss people in the room’s challenges and the group’s suggestions on how to address them. A note taker will attempt to capture the best bits into a document we can improve on later and share with the community. This document https://docs.google.com/document/d/1vd8yOagTPPDcZsHpNMh-bIiKL3tjPDb4xrbXbP1hrdM/edit### was produced in a similar session last year.
 
 **Topics to be covered:**  Coping with technical debt, strategic procrastination, tips on tech and politics. 
 
 **Approximate length of session:** 60 mins
 
-## 9. Developing in the current higher education economic climate - Dr Joseph Baxter, University of Nottingham
+### 9. Developing in the current higher education economic climate - Dr Joseph Baxter, University of Nottingham
 
 **Type of session:** Presentation 
 
@@ -115,7 +115,7 @@ _NB: Formatting still needs tidying up_
 
 **Approximate length of session:** 30 minutes 
 
-## 10. Test all the things! QA and CI at the OU - Mark Johnson, Open University
+### 10. Test all the things! QA and CI at the OU - Mark Johnson, Open University
 
 **Type of session:** Presentation
 
@@ -125,7 +125,7 @@ _NB: Formatting still needs tidying up_
 
 **Approximate length of session:** 20-30 minutes
 
-## 11. Getting started with AWS - Stephen Robinson, Lancaster University
+### 11. Getting started with AWS - Stephen Robinson, Lancaster University
 
 **Type of session:** Presentation/Demo
 
@@ -137,7 +137,7 @@ _NB: Formatting still needs tidying up_
 
 **Prerequisites for delegates attending the session:** Interest in how to get started with AWS, early days in using AWS
 
-## 12. The Jupyter Ecosystem - Tony Hirst, Open University
+### 12. The Jupyter Ecosystem - Tony Hirst, Open University
 
 **Type of session:** needs a good half hour; could be done as a practical session up to 2 hrs; whatever fits best
 
@@ -149,7 +149,7 @@ _NB: Formatting still needs tidying up_
 
 **Prerequisites for delegates attending the session:** if we do interactive stuff, laptops, network connection.
 
-## 13. The ORCID API for researcher identifiers - Monica Duke, Jisc and Matteo Cancellieri, Open University
+### 13. The ORCID API for researcher identifiers - Monica Duke, Jisc and Matteo Cancellieri, Open University
 
 **Type of session:** Lightning talk
 
@@ -160,7 +160,7 @@ Topics to be covered:** researcher identifiers, ORCID API
 
 **Prerequisites for delegates attending the session:** an interest in scholarly communications and the role of researcher identifiers
 
-## 14. How can we teach coding to scientists? Matthew Brett, University of Birmingham
+### 14. How can we teach coding to scientists? Matthew Brett, University of Birmingham
 
 **Type of session:** Presentation/Lightning talk/Hands on/Demo/Other
 I think this is an Other, but closest to a presentation.
@@ -199,7 +199,7 @@ demonstration of tools and approaches.
 
 **Approximate length of session:** 90 minutes.
 
-## 15. Introducing EduTech: best practice ideas for engaging staff and students - Dawn Rimmer, Bromsgrove School
+### 15. Introducing EduTech: best practice ideas for engaging staff and students - Dawn Rimmer, Bromsgrove School
 
 **Type of session:** Presentation/Lightning talk
 
@@ -211,7 +211,7 @@ demonstration of tools and approaches.
 
 **Prerequisites for delegates attending the session:** Nothing, except patience with FE teacher talking from a pedagogical, teaching & learning development perspective!
 
-## 16. Accessibility of maths on the web - Christian Lawson-Perfect, University of Newcastle
+### 16. Accessibility of maths on the web - Christian Lawson-Perfect, University of Newcastle
 
 **Type of session:** Lightning talk/Demo
 
@@ -223,7 +223,7 @@ demonstration of tools and approaches.
 
 **Prerequisites for delegates attending the session:** None, but aimed at anyone responsible for putting maths on the web or with responsibility for students with accessibility needs.
 
-## 17. Visualising your data in Unity3D - Erick Martins Ratamero, University of Warwick
+### 17. Visualising your data in Unity3D - Erick Martins Ratamero, University of Warwick
 
 **Type of session:** Presentation (or Lightning Talk if necessary)
 
@@ -233,7 +233,7 @@ demonstration of tools and approaches.
 
 **Approximate length of session:** 20 minutes (for presentation), 5 minutes (for lightning talk)
 
-## 18.  SharePoint Migration using PowerShell - Tristian O’Brien, University of Brighton
+### 18.  SharePoint Migration using PowerShell - Tristian O’Brien, University of Brighton
 
 **Type of session:** Demo
 
@@ -245,7 +245,7 @@ demonstration of tools and approaches.
 
 **Prerequisites for delegates attending the session:** none, but SharePoint and PowerShell background advantageous
  
-## 19. Mathematical e-assessment software - Christian Lawson-Perfect, University of Newcastle
+### 19. Mathematical e-assessment software - Christian Lawson-Perfect, University of Newcastle
 
 **Type of session:** Demo/Hands-on
 
@@ -257,19 +257,19 @@ demonstration of tools and approaches.
 
 **Prerequisites for delegates attending the session:** Web browser on any kind of device. Some knowledge of university-level maths; parsers; infoviz will be useful.
 
-## 20. Building a Learner Management System:** a Just In Time approach - Jim Everett, University of Strathclyde
+### 20. Building a Learner Management System:** a Just In Time approach - Jim Everett, University of Strathclyde
 
 **Type of session:** Presentation
 
 **Description:** The University of Strathclyde recently moved its lifelong learning programme to an online self-service portal where learners can find, enrol, pay for and manage their classes. The new portal also incorporates the full range of administration and reporting functionality including programme management, learner management and integration with the central university student records system. The presentation will explore how the portal is being developed form both a technical and project management perspective.
 
-The portal is being developed from scratch by the Development and Innovation Team on a .NET CMS platform (DNN) using a mix of T-SQL, C##, JavaScript and CMS plugins. We will investigate how this heterogeneous mix of development approaches is managed, and what we have found to be the benefits and complexities.
+The portal is being developed from scratch by the Development and Innovation Team on a .NET CMS platform (DNN) using a mix of T-SQL, C###, JavaScript and CMS plugins. We will investigate how this heterogeneous mix of development approaches is managed, and what we have found to be the benefits and complexities.
 
 The portal is being delivered using a “just-in-time” agile approach with learners and administrators using the system as its functionality is being fleshed out. The presentation will explore the challenges of this approach and how it can be made to work for learners, administrators and developers.
 Topics to be covered: Agile Project Management, .NET + JavaScript development
 Approximate length of session:** 30min
  
-## 21. Student Checklist Manifesto - Arul Vaithilingam, York St John University
+### 21. Student Checklist Manifesto - Arul Vaithilingam, York St John University
 
 **Type of session:** Presentation
 
@@ -279,7 +279,7 @@ Approximate length of session:** 30min
 
 **Approximate length of session:** 10-15 mins.
 
-## 22. Introduction to Machine Learning - Juliette Culver, Open University
+### 22. Introduction to Machine Learning - Juliette Culver, Open University
 
 **Type of session:** Presentation
 
@@ -291,7 +291,7 @@ Approximate length of session:** 30min
 
 **Prerequisites for delegates attending the session:** There will be a short demo using Python 3 – for anybody wanting to follow along, downloading the Anaconda Python distribution (https://www.anaconda.com/download/) is recommended. 
 
-## 23. Academic developer culture - Alex Dutton, University of Oxford
+### 23. Academic developer culture - Alex Dutton, University of Oxford
 
 **Type of session:** Presentation + workshop
 
@@ -299,7 +299,7 @@ Approximate length of session:** 30min
 
 **Approximate length of session:** 60 mins
 
-## 24. Using ‘the cloud’ to support international teaching - Stephen Robinson, Lancaster University
+### 24. Using ‘the cloud’ to support international teaching - Stephen Robinson, Lancaster University
 
 **Type of session:** Presentation/Demo
 
@@ -309,7 +309,7 @@ Approximate length of session:** 30min
 
 **Approximate length of session:** 1 hour
 
-## 25. Knocking down silos: an introduction to the International Image Interoperability Framework (IIIF) APIs - Claire Knowles and Glen Robson, University of Edinburgh
+### 25. Knocking down silos: an introduction to the International Image Interoperability Framework (IIIF) APIs - Claire Knowles and Glen Robson, University of Edinburgh
 
 **Type of session:** Presentation and Demo
 
@@ -321,7 +321,7 @@ Approximate length of session:** 30min
 
 **Prerequisites for delegates attending the session:** e.g. an understanding of APIs
 
-## 26. Creating an elearning authoring tool for HE - Simon Date, King’s College London
+### 26. Creating an elearning authoring tool for HE - Simon Date, King’s College London
 
 **Type of session:** Presentation/Lightning talk
 
