@@ -1,3 +1,6 @@
+
+_NB: Formatting still needs tidying up_
+
 # 1. The Life Academic - Chris Gutteridge, University of Southampton
 Type: Presentation
 Desc: Our job is to support undergraduate, postgraduates and academics. Most of us have been students, but few people in university IT fully understand what academics really do. Chris has put together a whirlwind summary of what academics spend all their time doing. Academics, as a profession, have unique quirks and it helps to understand why.
