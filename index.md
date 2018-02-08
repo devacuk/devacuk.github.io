@@ -35,6 +35,6 @@ __Cost:__
 
 Please note that any data you supply in this UCISA survey will be shared between Jisc and UCISA, for the purpose of supporting this initiative and any follow on activities.    The two organisations will jointly review the applications received to ensure that there is a good spread of participants (by geography, interests, job type etc).  After that Jisc will write to successful and unsuccessful candidates, and provide event administration for this event.
 
-[Agenda] (agenda)
-[Sessions] (sessions)
+[Agenda] (http://devacuk.github.io/agenda)
+[Sessions] (http://devacuk.github.io/sessions)
 
