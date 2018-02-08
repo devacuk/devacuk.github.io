@@ -105,7 +105,7 @@ _NB: Formatting still needs tidying up_
 
 **Approximate length of session:** 60 mins
 
-# 7. Developing in the current higher education economic climate - Dr Joseph Baxter, University of Nottingham
+# 9. Developing in the current higher education economic climate - Dr Joseph Baxter, University of Nottingham
 
 **Type of session:** Presentation 
 
@@ -115,7 +115,7 @@ _NB: Formatting still needs tidying up_
 
 **Approximate length of session:** 30 minutes 
 
-# 8. Test all the things! QA and CI at the OU - Mark Johnson, Open University
+# 10. Test all the things! QA and CI at the OU - Mark Johnson, Open University
 
 **Type of session:** Presentation
 
@@ -199,7 +199,7 @@ demonstration of tools and approaches.
 
 **Approximate length of session:** 90 minutes.
 
-# 15. Introducing EduTech:** best practice ideas for engaging staff and students - Dawn Rimmer, Bromsgrove School
+# 15. Introducing EduTech: best practice ideas for engaging staff and students - Dawn Rimmer, Bromsgrove School
 
 **Type of session:** Presentation/Lightning talk
 
