@@ -26,35 +26,46 @@ _NB: Formatting still needs tidying up_
 **Prerequisites for delegates attending the session:** None
 
 # 3. Create your first ARKit app in Unity3D - Suhad Aljundi, Jisc
-Type of session: presentation/hands-on 30-45 mins (not sure yet whether it is hands on or a presentation and how long it might take)
-Short description:
-How to get started with ARKit
-Using Unity to create AR App
-Environment consideration for AR
-Approximate length of session: 30 - 45 mins?
-Prerequisites for delegates attending the session:
-iPhone 6S or newer
-basic understanding of Unity3D
-Deploying iOS app to a device
- 
-Downloaded onto your device:
-iPhone 6S (or later) running a pre-release of iOS 11
-A pre-release version of Xcode 9, and a patched version of Unity (Unity 5.6.1.p1 or later).
+
+**Type of session:** presentation/hands-on
+
+**Short description:**
+
+* How to get started with ARKit
+* Using Unity to create AR App
+* Environment consideration for AR
+
+**Approximate length of session:** 30 - 45 mins
+
+**Prerequisites for delegates attending the session:**
+
+* iPhone 6S or newer
+* Basic understanding of Unity3D
+* Deploying iOS app to a device
+* Downloaded onto your device:
+  * iPhone 6S (or later) running a pre-release of iOS 11
+  * A pre-release version of Xcode 9, and a patched version of Unity (Unity 5.6.1.p1 or later).
 
 # 4. Creating VR for Learning Spaces in Unreal Engine - Matt Ramirez, Jisc
-Description:
+
+**Description:**
   This presentation will examine how you can use the VR template included with Unreal Engine to quickly
   get started in creating Virtual Reality environments for the HTC Vive. I will be using VR content developed
   with Preston College as an example throughout
-Topics to be covered:
-  Examining the VR template included in UE4
-  Exporting and optimising 3d models from Blender to UE4
-  Using existing content and setting up new materials for objects
-  Tweaking VR settings
-  Adding simple interactivity
-Length of Session: 45 mins to an hour
-Pre-requisites: Some knowledge of 3d/ game engine software desirable not essential.
-  To follow along delegates could download Blender and/or Unreal Engine
+
+**Topics to be covered:**
+* Examining the VR template included in UE4
+* Exporting and optimising 3d models from Blender to UE4
+* Using existing content and setting up new materials for objects
+* Tweaking VR settings
+* Adding simple interactivity
+
+**Length of Session:** 45 mins to an hour
+
+**Pre-requisites:**
+
+* Some knowledge of 3d/ game engine software desirable not essential.
+* To follow along delegates could download Blender and/or Unreal Engine
 
 # 5. WordPress : getting started with the academic swiss army knife - Pat Lockley, Pgogy Webstuff
 Type of session: Hands on
