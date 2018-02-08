@@ -3,27 +3,27 @@ _NB: Formatting still needs tidying up_
 
 # 1. The Life Academic - Chris Gutteridge, University of Southampton
 
-*Type:* Presentation
+**Type:** Presentation
 
-*Desc:* Our job is to support undergraduate, postgraduates and academics. Most of us have been students, but few people in university IT fully understand what academics really do. Chris has put together a whirlwind summary of what academics spend all their time doing. Academics, as a profession, have unique quirks and it helps to understand why.
+**Desc:** Our job is to support undergraduate, postgraduates and academics. Most of us have been students, but few people in university IT fully understand what academics really do. Chris has put together a whirlwind summary of what academics spend all their time doing. Academics, as a profession, have unique quirks and it helps to understand why.
 
-*Topics:* Understanding academics. Non technical, but useful to understand our users.
+**Topics:** Understanding academics. Non technical, but useful to understand our users.
 
-*Duration:* 20-30 minutes
+**Duration:** 20-30 minutes
  
 # 2. A day in the life of a Research Software Engineer - James Grant, University of Bath
 
-*Type of session:* Presentation/Discussion
+**Type of session:** Presentation/Discussion
 
-*Short description:* I will give an overview of the activities of an RSE and describe the different type of roles that are developing as the community, technologies, university investment and different delivery models evolve.
+**Short description:** I will give an overview of the activities of an RSE and describe the different type of roles that are developing as the community, technologies, university investment and different delivery models evolve.
 
-*Topics:* What does an RSE do, what do RSE Groups look like, successes of the RSE movement.
+**Topics:** What does an RSE do, what do RSE Groups look like, successes of the RSE movement.
 
-*Approximate length of session:* Up to an hour, talk and questions
+**Approximate length of session:** Up to an hour, talk and questions
 
-*Presentation requirements:* Projector/Screen
+**Presentation requirements:** Projector/Screen
 
-*Prerequisites for delegates attending the session:* None
+**Prerequisites for delegates attending the session:** None
 
 # 3. Create your first ARKit app in Unity3D - Suhad Aljundi, Jisc
 Type of session: presentation/hands-on 30-45 mins (not sure yet whether it is hands on or a presentation and how long it might take)
