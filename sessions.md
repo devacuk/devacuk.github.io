@@ -126,31 +126,46 @@ _NB: Formatting still needs tidying up_
 **Approximate length of session:** 20-30 minutes
 
 # 11. Getting started with AWS - Stephen Robinson, Lancaster University
-Type of session: Presentation/Demo
-Description: A brief overview of why we decided to use AWS at Lancaster University Library and how we have automated setting up our AWS accounts and infrastructure. This will include a walkthrough of setting up core AWS configurations and services.
-Topics to be covered: AWS, Terraform, Linux
-Approximate length of session: 1-2 hours
-Prerequisites for delegates attending the session: Interest in how to get started with AWS, early days in using AWS
+
+**Type of session:** Presentation/Demo
+
+**Description:** A brief overview of why we decided to use AWS at Lancaster University Library and how we have automated setting up our AWS accounts and infrastructure. This will include a walkthrough of setting up core AWS configurations and services.
+
+**Topics to be covered:** AWS, Terraform, Linux
+
+**Approximate length of session:** 1-2 hours
+
+**Prerequisites for delegates attending the session:** Interest in how to get started with AWS, early days in using AWS
 
 # 12. The Jupyter Ecosystem - Tony Hirst, Open University
-Type of session: needs a good half hour; could be done as a practical session up to 2 hrs; whatever fits best
-Description: Originally developed as IPython notebooks, Jupyter Notebooks provide a browser based, interactive programming environment that blend text, executable code and code outputs (tables, charts, embedded HTML widgets) in a single document. Designed initially to support reproducible research, notebooks are increasingly used to support teaching and learning as well as research. But the notebooks are only part of the story. This session will review the whole Jupyter ecosystem, including: Jupyter notebooks as notebooks as well as interactive slideshows (Jupyter RISE); creating runnable Jupyter notebook environments from Github repositories (Binderhub); using notebooks to define APIs and dashboards; Jupyter multi-user notebook server (Jupyterhub); hosting considerations.
-Topics to be covered: Jupyter notebooks, Jupyterhub, repo2docker, Binderhub, hosting requirements (so a bit of docker…)
-Approximate length of session: as required to fit the programme
-Prerequisites for delegates attending the session: if we do interactive stuff, laptops, network connection.
+
+**Type of session:** needs a good half hour; could be done as a practical session up to 2 hrs; whatever fits best
+
+**Description:** Originally developed as IPython notebooks, Jupyter Notebooks provide a browser based, interactive programming environment that blend text, executable code and code outputs (tables, charts, embedded HTML widgets) in a single document. Designed initially to support reproducible research, notebooks are increasingly used to support teaching and learning as well as research. But the notebooks are only part of the story. This session will review the whole Jupyter ecosystem, including: Jupyter notebooks as notebooks as well as interactive slideshows (Jupyter RISE); creating runnable Jupyter notebook environments from Github repositories (Binderhub); using notebooks to define APIs and dashboards; Jupyter multi-user notebook server (Jupyterhub); hosting considerations.
+
+**Topics to be covered:** Jupyter notebooks, Jupyterhub, repo2docker, Binderhub, hosting requirements (so a bit of docker…)
+
+**Approximate length of session:** as required to fit the programme
+
+**Prerequisites for delegates attending the session:** if we do interactive stuff, laptops, network connection.
 
 # 13. The ORCID API for researcher identifiers - Monica Duke, Jisc and Matteo Cancellieri, Open University
-Type of session: Lightning talk
-Description: An introduction to the ORCID API, how to access it, how to explore it + invite to jisc ORCID hackday
-Topics to be covered: researcher identifiers, ORCID API
-Approximate length of session: 10 minutes
-Prerequisites for delegates attending the session: an interest in scholarly communications and the role of researcher identifiers
+
+**Type of session:** Lightning talk
+
+**Description:** An introduction to the ORCID API, how to access it, how to explore it + invite to jisc ORCID hackday 
+Topics to be covered:** researcher identifiers, ORCID API
+
+**Approximate length of session:** 10 minutes
+
+**Prerequisites for delegates attending the session:** an interest in scholarly communications and the role of researcher identifiers
 
 # 14. How can we teach coding to scientists? Matthew Brett, University of Birmingham
-Type of session: Presentation/Lightning talk/Hands on/Demo/Other
+
+**Type of session:** Presentation/Lightning talk/Hands on/Demo/Other
 I think this is an Other, but closest to a presentation.
-Description:
-Many scientists, myself included, have found themselves learning how
+
+**Description:** Many scientists, myself included, have found themselves learning how
 to be developers.   We have had to do this in order to do our
 scientific work efficiently, correctly, and in a way that can be
 shared.   Coding is at the heart of modern data analysis.  There is a
@@ -172,7 +187,7 @@ discuss the issues that arise, and think of new ways of thinking about
 pitching and teaching.  I hope we'll come to a shared understanding of
 how to iterate towards a real solution to this urgent problem.
 
-Topics to be covered:
+**Topics to be covered:**
 
 * The actual role of code in science at undergraduate and graduate level.
 * Current state of play in terms of training and skills.
@@ -182,90 +197,137 @@ Topics to be covered:
 demonstration of tools and approaches.
 * Barriers to progress, and a discussion of how to overcome them.
 
-Approximate length of session: 90 minutes.
+**Approximate length of session:** 90 minutes.
 
-# 15. Introducing EduTech: best practice ideas for engaging staff and students - Dawn Rimmer, Bromsgrove School
-Type of session: Presentation/Lightning talk
-Description: Discussing some pitfalls and recommended solutions to improve on-boarding experiences for students and staff with new EduTech
-Topics to be covered: Introducing EduTech to techphobic colleagues, introducing EduTech to exams-focused students, supporting students who have limited IT skills despite smartphone attachment, 
-Approximate length of session: 10mins chat, 10mins questions/group chat? Could
-Prerequisites for delegates attending the session: Nothing, except patience with FE teacher talking from a pedagogical, teaching & learning development perspective!
+# 15. Introducing EduTech:** best practice ideas for engaging staff and students - Dawn Rimmer, Bromsgrove School
+
+**Type of session:** Presentation/Lightning talk
+
+**Description:** Discussing some pitfalls and recommended solutions to improve on-boarding experiences for students and staff with new EduTech
+
+**Topics to be covered:** Introducing EduTech to techphobic colleagues, introducing EduTech to exams-focused students, supporting students who have limited IT skills despite smartphone attachment, 
+
+**Approximate length of session:** 10mins chat, 10mins questions/group chat?
+
+**Prerequisites for delegates attending the session:** Nothing, except patience with FE teacher talking from a pedagogical, teaching & learning development perspective!
 
 # 16. Accessibility of maths on the web - Christian Lawson-Perfect, University of Newcastle
-Type of session: Lightning talk/Demo
-Description: I’ll talk about some of the particular challenges mathematics poses with respect to accessibility, and demonstrate some technologies that are aiming to improve it, including MathJax’s screenreader support, and a Markdown editor adapted for a maths student with limited mobility.
-Topics to be covered: Accessibility, maths, input methods, HTML, CSS, Markdown
-Approximate length of session: 15 minutes
-Prerequisites for delegates attending the session: None, but aimed at anyone responsible for putting maths on the web or with responsibility for students with accessibility needs.
+
+**Type of session:** Lightning talk/Demo
+
+**Description:** I’ll talk about some of the particular challenges mathematics poses with respect to accessibility, and demonstrate some technologies that are aiming to improve it, including MathJax’s screenreader support, and a Markdown editor adapted for a maths student with limited mobility.
+
+**Topics to be covered:** Accessibility, maths, input methods, HTML, CSS, Markdown
+
+**Approximate length of session:** 15 minutes
+
+**Prerequisites for delegates attending the session:** None, but aimed at anyone responsible for putting maths on the web or with responsibility for students with accessibility needs.
 
 # 17. Visualising your data in Unity3D - Erick Martins Ratamero, University of Warwick
-Type of session: Presentation (or Lightning Talk if necessary)
-Description:
-In this presentation I will go through some examples of data visualisation in Unity3D and outline the advantages of using this engine for your own data.
-Topics to be covered: Unity3D, virtual reality, data visualisation
-Approximate length of session: 20 minutes (for presentation), 5 minutes (for lightning talk)
+
+**Type of session:** Presentation (or Lightning Talk if necessary)
+
+**Description:** In this presentation I will go through some examples of data visualisation in Unity3D and outline the advantages of using this engine for your own data.
+
+**Topics to be covered:** Unity3D, virtual reality, data visualisation
+
+**Approximate length of session:** 20 minutes (for presentation), 5 minutes (for lightning talk)
 
 # 18.  SharePoint Migration using PowerShell - Tristian O’Brien, University of Brighton
-Type of session: Demo
-Description: TBC
-Topics to be covered: Data migration, PowerShell, PowerShell modules, AzureAD, managing migrations, strengths and weaknesses of PowerShell
-Approximate length of session: 40 mins
-Prerequisites for delegates attending the session: none, but SharePoint and PowerShell background advantageous
+
+**Type of session:** Demo
+
+**Description:** TBC
+
+**Topics to be covered:** Data migration, PowerShell, PowerShell modules, AzureAD, managing migrations, strengths and weaknesses of PowerShell
+
+**Approximate length of session:** 40 mins
+
+**Prerequisites for delegates attending the session:** none, but SharePoint and PowerShell background advantageous
  
 # 19. Mathematical e-assessment software - Christian Lawson-Perfect, University of Newcastle
-Type of session: Demo/Hands-on
-Description: I’ll demonstrate the current generation of open source maths e-assessment tools, including Numbas and STACK, and point out some of the interesting coding challenges posed by randomly generating  and assessing mathematics questions as well as the opportunities presented by web visualisation technologies.
-Topics to be covered: e-assessment, e-learning, maths
-Approximate length of session: 30 minutes
-Prerequisites for delegates attending the session: Web browser on any kind of device. Some knowledge of university-level maths; parsers; infoviz will be useful.
 
-# 20. Building a Learner Management System: a Just In Time approach - Jim Everett, University of Strathclyde
-Type of session: Presentation
-Description:
-The University of Strathclyde recently moved its lifelong learning programme to an online self-service portal where learners can find, enrol, pay for and manage their classes. The new portal also incorporates the full range of administration and reporting functionality including programme management, learner management and integration with the central university student records system. The presentation will explore how the portal is being developed form both a technical and project management perspective.
+**Type of session:** Demo/Hands-on
+
+**Description:** I’ll demonstrate the current generation of open source maths e-assessment tools, including Numbas and STACK, and point out some of the interesting coding challenges posed by randomly generating  and assessing mathematics questions as well as the opportunities presented by web visualisation technologies.
+
+**Topics to be covered:** e-assessment, e-learning, maths
+
+**Approximate length of session:** 30 minutes
+
+**Prerequisites for delegates attending the session:** Web browser on any kind of device. Some knowledge of university-level maths; parsers; infoviz will be useful.
+
+# 20. Building a Learner Management System:** a Just In Time approach - Jim Everett, University of Strathclyde
+
+**Type of session:** Presentation
+
+**Description:** The University of Strathclyde recently moved its lifelong learning programme to an online self-service portal where learners can find, enrol, pay for and manage their classes. The new portal also incorporates the full range of administration and reporting functionality including programme management, learner management and integration with the central university student records system. The presentation will explore how the portal is being developed form both a technical and project management perspective.
+
 The portal is being developed from scratch by the Development and Innovation Team on a .NET CMS platform (DNN) using a mix of T-SQL, C#, JavaScript and CMS plugins. We will investigate how this heterogeneous mix of development approaches is managed, and what we have found to be the benefits and complexities.
- 
+
 The portal is being delivered using a “just-in-time” agile approach with learners and administrators using the system as its functionality is being fleshed out. The presentation will explore the challenges of this approach and how it can be made to work for learners, administrators and developers.
 Topics to be covered: Agile Project Management, .NET + JavaScript development
-Approximate length of session: 30min
+Approximate length of session:** 30min
  
 # 21. Student Checklist Manifesto - Arul Vaithilingam, York St John University
-Type of session: Presentation
-Description: In this presentation, I will outline how the student checklist can be created, accessed, utilised, benefited, shared & improved.
-Topics to be covered: Time Management, Cost Effective, Benefits
-Approximate length of session: 10-15 mins.
+
+**Type of session:** Presentation
+
+**Description:** In this presentation, I will outline how the student checklist can be created, accessed, utilised, benefited, shared & improved.
+
+**Topics to be covered:** Time Management, Cost Effective, Benefits
+
+**Approximate length of session:** 10-15 mins.
 
 # 22. Introduction to Machine Learning - Juliette Culver, Open University
-Type of session: Presentation
-Description: 
-This session is a taster aimed at developers with no machine learning experience, who would like to know what machine learning is exactly, how to get started using machine learning algorithms from a practical perspective, what issues to be aware of and how to go about learning more about the topic. 
-Topics to be covered: Machine Learning
-Approximate length of session: 45 minutes
-Prerequisites for delegates attending the session: There will be a short demo using Python 3 – for anybody wanting to follow along, downloading the Anaconda Python distribution (https://www.anaconda.com/download/) is recommended. 
+
+**Type of session:** Presentation
+
+**Description:** This session is a taster aimed at developers with no machine learning experience, who would like to know what machine learning is exactly, how to get started using machine learning algorithms from a practical perspective, what issues to be aware of and how to go about learning more about the topic. 
+
+**Topics to be covered:** Machine Learning
+
+**Approximate length of session:** 45 minutes
+
+**Prerequisites for delegates attending the session:** There will be a short demo using Python 3 – for anybody wanting to follow along, downloading the Anaconda Python distribution (https://www.anaconda.com/download/) is recommended. 
 
 # 23. Academic developer culture - Alex Dutton, University of Oxford
-Type of session: Presentation + workshop
-Description: What kind of culture do we want? How can management support it? How has it changed over time?
-Topics to be covered: 
-Approximate length of session: 60 mins
+
+**Type of session:** Presentation + workshop
+
+**Description:** What kind of culture do we want? How can management support it? How has it changed over time?
+
+**Approximate length of session:** 60 mins
 
 # 24. Using ‘the cloud’ to support international teaching - Stephen Robinson, Lancaster University
-Type of session: Presentation/Demo
-Description: Making use of AWS regions to provide highly available and low latency web services to international teaching partnerships. Note: The ideas from this can be applied to any cloud computing platform.
-Topics to be covered: AWS, Docker
-Approximate length of session: 1 hour
+
+**Type of session:** Presentation/Demo
+
+**Description:** Making use of AWS regions to provide highly available and low latency web services to international teaching partnerships. Note: The ideas from this can be applied to any cloud computing platform.
+
+**Topics to be covered:** AWS, Docker
+
+**Approximate length of session:** 1 hour
 
 # 25. Knocking down silos: an introduction to the International Image Interoperability Framework (IIIF) APIs - Claire Knowles and Glen Robson, University of Edinburgh
-Type of session: Presentation and Demo
-Description: An introduction to the IIIF image and presentation APIs that are used for serving and manipulating images online. It will also cover the forthcoming IIIF v3 APIs that extends IIIF for audio and video content. Tools and websites utilising IIIF will be demoed as well as examples of cool tools from the IIIF Awesome site. https://github.com/IIIF/awesome-iiif
-Topics to be covered:  Online interoperability with images and audio visual content
-Approximate length of session: 30 minutes
-Prerequisites for delegates attending the session: e.g. an understanding of APIs
+
+**Type of session:** Presentation and Demo
+
+**Description:** An introduction to the IIIF image and presentation APIs that are used for serving and manipulating images online. It will also cover the forthcoming IIIF v3 APIs that extends IIIF for audio and video content. Tools and websites utilising IIIF will be demoed as well as examples of cool tools from the IIIF Awesome site. https://github.com/IIIF/awesome-iiif
+
+**Topics to be covered:**  Online interoperability with images and audio visual content
+
+**Approximate length of session:** 30 minutes
+
+**Prerequisites for delegates attending the session:** e.g. an understanding of APIs
 
 # 26. Creating an elearning authoring tool for HE - Simon Date, King’s College London
-Type of session: Presentation/Lightning talk
-Description: 
-Kings Online, King’s College London’s distance learning team uses Adapt, a leading open source authoring tool to create courses for students. Over 2017 we have become one of the leading plugin developers for the platform and are in the process of becoming official collaborators for the project. Our diverse team of instructional designers, web designers and developers are keen to tailor a platform that was created for corporate elearning to be great for HE students by focusing on user experience and student’s unique requirements.
-Topics to be covered: open source development, elearning, edtech, web design/development, UX, LX
-Approximate length of session: 5-30 mins with questions 
+
+**Type of session:** Presentation/Lightning talk
+
+**Description:** Kings Online, King’s College London’s distance learning team uses Adapt, a leading open source authoring tool to create courses for students. Over 2017 we have become one of the leading plugin developers for the platform and are in the process of becoming official collaborators for the project. Our diverse team of instructional designers, web designers and developers are keen to tailor a platform that was created for corporate elearning to be great for HE students by focusing on user experience and student’s unique requirements.
+
+**Topics to be covered:** open source development, elearning, edtech, web design/development, UX, LX
+
+**Approximate length of session:** 5-30 mins with questions 
 
