@@ -78,7 +78,7 @@ UCISA and Jisc are working with the developer community to create a unique event
   </td>
 </tr>
 <tr><td>1800-1930</td><td colspan="3">Informal networking / recharge time</td></tr>
-<tr><td>1930-2130</td><td colspan="3">Dinner</td></tr>
+<tr><td>1930-2130</td><td colspan="3">Dinner</br>testing</td></tr>
 
 <tr>
   <th colspan="4">Day two</th>
@@ -91,20 +91,20 @@ UCISA and Jisc are working with the developer community to create a unique event
 </tr>
 <tr>
   <td>0930</td>
-  <td>Welcome and pitches for unconference sessions</br>testing</td>
+  <td>Welcome and pitches for unconference sessions</td>
   <td></td>
   <td></td>
 </tr>
 <tr>
   <td>1000</td>
-  <td>Unconference 1</br>testing</td>
+  <td>Unconference 1</td>
   <td>Unconference 2</td>
   <td>Unconference 3</td>
 </tr>
 <tr><td>1045</td><td colspan="3">Break</td></tr>
 <tr>
   <td>1115</td>
-  <td>Unconference 4</br>testing</td>
+  <td>Unconference 4</td>
   <td>Unconference 5</td>
   <td>Unconference 6</td>
 </tr>
