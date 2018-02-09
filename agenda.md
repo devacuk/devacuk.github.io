@@ -11,6 +11,7 @@ UCISA and Jisc are working with the developer community to create a unique event
  
 Day one:
 | Time | MAIN ROOM | BREAKOUT 1 | BREAKOUT 2
+------------------------------------------------
 | 1000 | Arrival and registration WITH COFFEE |
 | 1030 | Welcome and introduction |
 | 1100 | RESEARCH SUPPORT
