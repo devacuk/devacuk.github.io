@@ -79,7 +79,7 @@ UCISA and Jisc are working with the developer community to create a unique event
   </tr>
   <tr><td>1800-1930</td><td colspan="3">Informal networking / recharge time</td></tr>
   <tr><td>1930-2130</td><td colspan="3">Dinner</td></tr>
-  <tr><th colspan="4">Day One:</th></tr>
+  <tr><th colspan="4">Day Two:</th></tr>
   <tr>
     <th>Time</th>
     <th>Main room</th>
@@ -148,6 +148,6 @@ UCISA and Jisc are working with the developer community to create a unique event
     </td>
   </tr>
   <tr><td>1530</td><td>Wrap up and close</td><td></td><td></td></tr>
-  <tr><td>1600</td><td colspan="3">Departures</td></tr>
-</table>
+  <tr><td>1600</td><td colspan="3">Departures</td>
+
 
