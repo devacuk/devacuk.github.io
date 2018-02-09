@@ -152,6 +152,6 @@ UCISA and Jisc are working with the developer community to create a unique event
 </tr>
 <tr><td>1530</td><td>Wrap up and close</td><td></td><td></td></tr>
 <tr><td>1600</td><td colspan="3">Departures</td></tr>
-</table>
+
 
 
