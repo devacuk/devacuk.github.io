@@ -80,7 +80,7 @@ UCISA and Jisc are working with the developer community to create a unique event
 </tr>
 <tr><td>1800-1930</td><td colspan="3">Informal networking / recharge time</td>
 </tr>
-<tr><td>1930-2130</td><td colspan="3">Dinner
+<tr><td>1930-2130</td><td colspan="3">Dinner</td>
 
 # Day two:
 
