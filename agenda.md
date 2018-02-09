@@ -66,8 +66,8 @@ Day one:
 <tr><td>1630</td>
   <td>
   Lightning talks: (10mins max)<br/>
-  Introducing EduTech - best practice ideas for engaging staff and students - Dawn Rimmer<br/>
-  Accessibility of maths on the web - Christian Lawson-Perfect<br/>
+  [15] Introducing EduTech - best practice ideas for engaging staff and students - Dawn Rimmer<br/>
+  [16] Accessibility of maths on the web - Christian Lawson-Perfect<br/>
   </td>
   <td>
   </td>
@@ -80,47 +80,73 @@ Day one:
 
 Day two:
 <table>
-| Time | MAIN ROOM | BREAKOUT 1 | BREAKOUT 2
-| 0930 | Welcome and pitches for unconference sessions |
-| 1000 | A3 - Unconference | B3 - Unconference | C3 - Unconference
-| 1045 | Break | |
-| 1115 | A4 - Unconference | B4 - Unconference | C4 - Unconference
-| 1200 | Lunch | |
-| 1300 | Pitches for afternoon sessions | |
-| 1315 | TECHNOLOGY (RESEARCH)
-
-[4] Visualising your data in Unity3D - Erick Martins Ratamero, University of Warwick (20mins)
-
-[7] SharePoint Migration using PowerShell - SharePoint Migration using PowerShell - Tristian O’Brien (40mins)
-
-| TECHNOLOGY
-
-[30] Mathematical e-assessment software - Christian Lawson-Perfect (30mins)
-
-[14] Building a Learner Management System: a Just in Time approach - Jim Everett, University of Strathclyde (30mins)
-
-| STUDENT ADMINISTRATION
-
-[10] Student Checklist Manifesto - Arul Vaithilingam, York St John University (10-15mins)
-
-[1] Machine Learning at the OU -  Juliette Culver, Open University (45mins)
-
-| 1415 | Break | |
-| 1430 | DEVELOPER COMMUNITY
-
-[9] Academic developer culture - Alex Dutton, University of Oxford (60mins)
-
-| TECHNOLOGY
-
-[12] Using ‘the cloud’ to support international teaching - Stephen Robinson, Lancaster University (60mins)
-
-| TECHNOLOGY
-
-[2] Knocking down silos: an introduction to the International Image Interoperability Framework (IIIF) APIs - Claire Knowles and Glen Robson, University of Edinburgh (30mins)
-
-[5] Creating an e-Learning authoring tool for HE - Simon Date, King’s College London
-
-| 1530 | Wrap up and close | |
-| 1600 | Departures | |
-
+<tr>
+  <td>Time</td>
+  <td>Main room</td>
+  <td>Breakout 1</td>
+  <td>Breakout 2</td>
+</tr>
+<tr>
+  <td>0930</td>
+  <td>Welcome and pitches for unconference sessions</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>1000</td>
+  <td>Unconference 1</td>
+  <td>Unconference 2</td>
+  <td>Unconference 3</td>
+</tr>
+<tr><td>1045</td><td colspan="3">Break</td></tr>
+<tr>
+  <td>1115</td>
+  <td>Unconference 4</td>
+  <td>Unconference 5</td>
+  <td>Unconference 6</td>
+</tr>
+<tr><td>1200</td><td colspan="3">Lunch</td></tr>
+<tr>
+  <td>1300</td>
+  <td>Welcome and pitches for unconference sessions</td>
+  <td></td>
+  <td></td>
+</tr>
+<tr>
+  <td>1315</td>
+  <td>
+    TECHNOLOGY (RESEARCH)</br>
+    [17] Visualising your data in Unity3D - Erick Martins Ratamero, University of Warwick (20mins)</br>
+    [18] SharePoint Migration using PowerShell - SharePoint Migration using PowerShell - Tristian O’Brien, University of Brighton (40mins)</br>
+  </td>
+  <td>
+    TECHNOLOGY</br>
+    [19] Mathematical e-assessment software - Christian Lawson-Perfect (30mins)</br>
+    [20] Building a Learner Management System: a Just in Time approach - Jim Everett, University of Strathclyde (30mins)</br>
+  </td>
+  <td>
+    STUDENT ADMINISTRATION</br>
+    [21] Student Checklist Manifesto - Arul Vaithilingam, York St John University (10-15mins)</br>
+    [22] Machine Learning at the OU -  Juliette Culver, Open University (45mins)</br>
+  </td>
+</tr>
+<tr><td>1415</td><td colspan="3">Break</td></tr>
+<tr>
+  <td>1430</td>
+  <td>
+    DEVELOPER COMMUNITY</br>
+    [23] Academic developer culture - Alex Dutton, University of Oxford (60mins)</br>
+  </td>
+  <td>
+    TECHNOLOGY</br>
+    [24] Using ‘the cloud’ to support international teaching - Stephen Robinson, Lancaster University (60mins)</br>
+  </td>
+  <td>
+    TECHNOLOGY</br>
+    [25] Knocking down silos: an introduction to the International Image Interoperability Framework (IIIF) APIs - Claire Knowles and Glen Robson, University of Edinburgh (30mins)</br>
+    [26] Creating an e-Learning authoring tool for HE - Simon Date, King’s College London (30mins)</br>
+  </td>
+</tr>
+<tr><td>1530</td><td>Wrap up and close</td><td></td><td></td></tr>
+<tr><td>1600</td><td colspan="3">Departures</td></tr>
 </table>
