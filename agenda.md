@@ -63,7 +63,7 @@ UCISA and Jisc are working with the developer community to create a unique event
       [13] The ORCID API for researcher identifiers - Monica Duke and Matteo Cancellieri (15mins)<br/>
       [14] How can we teaching coding to scientists - Matthew Brett, University of Birmingham (90mins)<br/>
     </td>
-  </tr>
+  
   <tr><td>1600</td><td colspan="3">Break</td>
   </tr>
   <tr><td>1630</td>
