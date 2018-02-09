@@ -11,9 +11,21 @@ UCISA and Jisc are working with the developer community to create a unique event
  
 Day one:
 <table>
-<tr><td>Time</td><td>Main room</td><td>Breakout 1</td><td>Breakout 2</td></tr>
-<tr><td>1000</td><td colspan=3>Arrival and registration WITH COFFEE</td></tr>
-<tr><td>1030</td><td>Welcome and introduction</td><td></td><td></td></tr>
+<tr>
+  <td>Time</td>
+  <td>Main room</td>
+  <td>Breakout 1</td>
+  <td>Breakout 2</td>
+</tr>
+<tr>
+  <td>1000</td>
+  <td colspan="3">Arrival and registration WITH COFFEE</td></tr>
+<tr>
+  <td>1030</td>
+  <td>Welcome and introduction</td>
+  <td></td>
+  <td></td>
+</tr>
 <tr><td>1100</td>
   <td>
     RESEARCH SUPPORT<br/>
@@ -31,7 +43,7 @@ Day one:
     [6] Behaviour Driven Development with SpecFlow and Selenium - Antony Jackson, London Business School (60 mins)<br/>
   </td>
 </tr>
-<tr><td>1300</td><td colspan=3>Lunch</td></tr>
+<tr><td>1300</td><td colspan="3">Lunch</td></tr>
 <tr><td>1400</td>
   <td>
     PROFESSIONAL PRACTICE<br/>
@@ -50,7 +62,7 @@ Day one:
     [14] How can we teaching coding to scientists? - Matthew Brett, University of Birmingham (90mins)<br/>
   </td>
 </tr>
-<tr><td>1600</td><td colspan=3>Break</td></tr>
+<tr><td>1600</td><td colspan="3">Break</td></tr>
 <tr><td>1630</td>
   <td>
   Lightning talks: (10mins max)<br/>
@@ -62,8 +74,8 @@ Day one:
   <td>
   </td>
 </tr>
-<tr><td>1800-1930</td><td colspan=3>Informal networking / recharge time</td></tr>
-<tr><td>1930-2130</td><td colspan=3>Dinner</td></tr>
+<tr><td>1800-1930</td><td colspan="3">Informal networking / recharge time</td></tr>
+<tr><td>1930-2130</td><td colspan="3">Dinner</td></tr>
 </table>
 
 Day two:
