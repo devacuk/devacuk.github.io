@@ -10,8 +10,9 @@ _NB: Formatting still needs tidying up_
 UCISA and Jisc are working with the developer community to create a unique event that combines continuing professional development with exposure to the latest in emerging technologies, and gives developers who attend the opportunity to showcase their creativity.
  
 Day one:
-| Time | MAIN ROOM | BREAKOUT 1 | BREAKOUT 2
-------------------------------------------------
+<table>
+<tr><td>Time</td><td>Main room</td><td>Breakout 1</td><td>Breakout 2</td></tr>
+</table>
 | 1000 | Arrival and registration WITH COFFEE |
 | 1030 | Welcome and introduction |
 | 1100 | RESEARCH SUPPORT
