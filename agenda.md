@@ -13,9 +13,6 @@ UCISA and Jisc are working with the developer community to create a unique event
 
 <table>
 <tr>
-  <th colspan="4">Day one</th>
-</tr>
-<tr>
   <th>Time</th>
   <th>Main room</th>
   <th>Breakout 1</th>
@@ -83,16 +80,11 @@ UCISA and Jisc are working with the developer community to create a unique event
 </tr>
 <tr><td>1800-1930</td><td colspan="3">Informal networking / recharge time</td>
 </tr>
-<tr><td>1930-2130</td><td colspan="3">Dinner</td>
-</tr>
-</table>
+<tr><td>1930-2130</td><td colspan="3">Dinner
 
 # Day two:
 
 <table>
-<tr>
-  <th colspan="4">Day two</th>
-</tr>
 <tr>
   <th>Time</th>
   <th>Main room</th>
