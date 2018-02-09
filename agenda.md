@@ -91,20 +91,20 @@ UCISA and Jisc are working with the developer community to create a unique event
 </tr>
 <tr>
   <td>0930</td>
-  <td>Welcome and pitches for unconference sessions</td>
+  <td>Welcome and pitches for unconference sessions</br>testing</td>
   <td></td>
   <td></td>
 </tr>
 <tr>
   <td>1000</td>
-  <td>Unconference 1</td>
+  <td>Unconference 1</br>testing</td>
   <td>Unconference 2</td>
   <td>Unconference 3</td>
 </tr>
 <tr><td>1045</td><td colspan="3">Break</td></tr>
 <tr>
   <td>1115</td>
-  <td>Unconference 4</td>
+  <td>Unconference 4</br>testing</td>
   <td>Unconference 5</td>
   <td>Unconference 6</td>
 </tr>
@@ -114,6 +114,24 @@ UCISA and Jisc are working with the developer community to create a unique event
   <td>Welcome and pitches for unconference sessions</td>
   <td></td>
   <td></td>
+</tr>
+<tr>
+  <td>1315</td>
+  <td>
+    TECHNOLOGY (RESEARCH)</br>
+    [17] Visualising your data in Unity3D - Erick Martins Ratamero, University of Warwick (20mins)</br>
+    [18] SharePoint Migration using PowerShell - SharePoint Migration using PowerShell - Tristian O’Brien, University of Brighton (40mins)</br>
+  </td>
+  <td>
+    TECHNOLOGY</br>
+    [19] Mathematical e-assessment software - Christian Lawson-Perfect (30mins)</br>
+    [20] Building a Learner Management System: a Just in Time approach - Jim Everett, University of Strathclyde (30mins)</br>
+  </td>
+  <td>
+    STUDENT ADMINISTRATION</br>
+    [21] Student Checklist Manifesto - Arul Vaithilingam, York St John University (10-15mins)</br>
+    [22] Machine Learning at the OU -  Juliette Culver, Open University (45mins)</br>
+  </td>
 </tr>
 <tr><td>1415</td><td colspan="3">Break</td></tr>
 <tr>
