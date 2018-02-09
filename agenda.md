@@ -69,16 +69,16 @@ UCISA and Jisc are working with the developer community to create a unique event
 <tr><td>1630</td>
   <td>
   Lightning talks: (10mins max)<br/>
-  [15] Introducing EduTech - best practice ideas for engaging staff and students - Dawn Rimmer<br/>
-  [16] Accessibility of maths on the web - Christian Lawson-Perfect<br/>
+  [15] Introducing EduTech: best practice ideas for engaging staff and students - Dawn Rimmer, Bromsgrove School<br/>
+  [16] Accessibility of maths on the web - Christian Lawson-Perfect, University of Newcastle<br/>
   </td>
   <td>
   </td>
   <td>
   </td>
 </tr>
-<tr><td>1800-1930</td><td colspan="3">Informal networking / recharge time</td></tr>
-<tr><td>1930-2130</td><td colspan="3">Dinner</br>testing</td></tr>
+<tr><td>1800-1930</td><td colspan="3">Informal networking and recharge time</br>testing</td></tr>
+<tr><td>1930-2130</td><td colspan="3">Dinner</td></tr>
 
 <tr>
   <th colspan="4">Day two</th>
@@ -124,7 +124,7 @@ UCISA and Jisc are working with the developer community to create a unique event
   </td>
   <td>
     TECHNOLOGY</br>
-    [19] Mathematical e-assessment software - Christian Lawson-Perfect (30mins)</br>
+    [19] Mathematical e-assessment software - Christian Lawson-Perfect, University of Newcastle (30mins)</br>
     [20] Building a Learner Management System: a Just in Time approach - Jim Everett, University of Strathclyde (30mins)</br>
   </td>
   <td>
