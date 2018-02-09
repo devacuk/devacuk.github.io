@@ -13,10 +13,10 @@ Day one:
 
 <table>
 <tr>
-  <td>Time</td>
-  <td>Main room</td>
-  <td>Breakout 1</td>
-  <td>Breakout 2</td>
+  <th>Time</th>
+  <th>Main room</th>
+  <th>Breakout 1</th>
+  <th>Breakout 2</th>
 </tr>
 <tr>
   <td>1000</td>
@@ -83,10 +83,10 @@ Day two:
 
 <table>
 <tr>
-  <td>Time</td>
-  <td>Main room</td>
-  <td>Breakout 1</td>
-  <td>Breakout 2</td>
+  <th>Time</th>
+  <th>Main room</th>
+  <th>Breakout 1</th>
+  <th>Breakout 2</th>
 </tr>
 <tr>
   <td>0930</td>
