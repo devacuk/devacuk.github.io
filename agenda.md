@@ -12,76 +12,74 @@ UCISA and Jisc are working with the developer community to create a unique event
 # Day one:
 
 <table>
-<tr>
-  <th>Time</th>
-  <th>Main room</th>
-  <th>Breakout 1</th>
-  <th>Breakout 2</th>
-</tr>
-<tr>
-  <td>1000</td>
-  <td colspan="3">Arrival and registration WITH COFFEE</td>
-</tr>
-<tr>
-  <td>1030</td>
-  <td>Welcome and introduction</td>
-  <td></td>
-  <td></td>
-</tr>
-<tr><td>1100</td>
-  <td>
-    RESEARCH SUPPORT<br/>
-    [1] The life academic - Chris Gutteridge, University of Southampton (30mins)<br/>
-    [2] A day in the life of a Research Software Engineer - James Grant, University of Bath (60mins)<br/>
-  </td>
-  <td>
-    TECHNOLOGY<br/>
-    [3] Create your first ARKit app in Unity3D - Suhad Aljundi, Jisc (45mins)<br/>
-    [4] Creating VR for Learning Spaces in Unreal Engine - Matt Ramirez, Jisc (60mins)<br/>
-  </td>
-  <td>
-    TECHNOLOGY<br/>
-    [5] WordPress : getting started with the academic swiss army knife - Pat Lockley, Pgogy Webstuff (45mins)<br/>
-    [6] Behaviour Driven Development with SpecFlow and Selenium - Antony Jackson, London Business School (60 mins)<br/>
-  </td>
-</tr>
-<tr><td>1300</td><td colspan="3">Lunch</td>
-</tr>
-<tr><td>1400</td>
-  <td>
-    PROFESSIONAL PRACTICE<br/>
-    [7] Implementing Agile - John Paul Jones, University of Cumbria (10mins)<br/>
-    [8] Dealing with Technical Debt - Christopher Gutteridge, University of Southampton (60mins)<br/>
-    [9] Developing in the current higher education economic climate - Joseph Baxter, University of Nottingham (30mins)<br/>
-    [10] Test all the things! QA and CI at the OU - Mark Johnson, Open University (20mins)<br/>
-  <td>
-    TECHNOLOGY<br/>
-    [11] Getting started with AWS - Stephen Robinson, Lancaster University (60-90mins)<br/>
-    [12] The Jupyter Ecosystem - Tony Hirst, Open University (60 mins)<br/>
-  </td>
-  <td>
-    RESEARCH SUPPORT<br/>
-    [13] The ORCID API for researcher identifiers - Monica Duke and Matteo Cancellieri (15mins)<br/>
-    [14] How can we teaching coding to scientists - Matthew Brett, University of Birmingham (90mins)<br/>
-  </td>
-</tr>
-<tr><td>1600</td><td colspan="3">Break</td>
-</tr>
-<tr><td>1630</td>
-  <td>
-  Lightning talks: (10mins max)<br/>
-  [15] Introducing EduTech: best practice ideas for engaging staff and students - Dawn Rimmer, Bromsgrove School<br/>
-  [16] Accessibility of maths on the web - Christian Lawson-Perfect, University of Newcastle<br/>
-  </td>
-  <td>
-  </td>
-  <td>
-  </td>
-</tr>
-<tr><td>1800-1930</td><td colspan="3">Informal networking / recharge time</td>
-</tr>
-<tr><td>1930-2130</td><td colspan="3">Dinner</td>
-</tr>
+  <tr>
+    <th>Time</th>
+    <th>Main room</th>
+    <th>Breakout 1</th>
+    <th>Breakout 2</th>
+  </tr>
+  <tr>
+    <td>1000</td>
+    <td colspan="3">Arrival and registration WITH COFFEE</td>
+  </tr>
+  <tr>
+    <td>1030</td>
+    <td>Welcome and introduction</td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr><td>1100</td>
+    <td>
+      RESEARCH SUPPORT<br/>
+      [1] The life academic - Chris Gutteridge, University of Southampton (30mins)<br/>
+      [2] A day in the life of a Research Software Engineer - James Grant, University of Bath (60mins)<br/>
+    </td>
+    <td>
+      TECHNOLOGY<br/>
+      [3] Create your first ARKit app in Unity3D - Suhad Aljundi, Jisc (45mins)<br/>
+      [4] Creating VR for Learning Spaces in Unreal Engine - Matt Ramirez, Jisc (60mins)<br/>
+    </td>
+    <td>
+      TECHNOLOGY<br/>
+      [5] WordPress : getting started with the academic swiss army knife - Pat Lockley, Pgogy Webstuff (45mins)<br/>
+      [6] Behaviour Driven Development with SpecFlow and Selenium - Antony Jackson, London Business School (60 mins)<br/>
+    </td>
+  </tr>
+  <tr><td>1300</td><td colspan="3">Lunch</td>
+  </tr>
+  <tr><td>1400</td>
+    <td>
+      PROFESSIONAL PRACTICE<br/>
+      [7] Implementing Agile - John Paul Jones, University of Cumbria (10mins)<br/>
+      [8] Dealing with Technical Debt - Christopher Gutteridge, University of Southampton (60mins)<br/>
+      [9] Developing in the current higher education economic climate - Joseph Baxter, University of Nottingham (30mins)<br/>
+      [10] Test all the things! QA and CI at the OU - Mark Johnson, Open University (20mins)<br/>
+    <td>
+      TECHNOLOGY<br/>
+      [11] Getting started with AWS - Stephen Robinson, Lancaster University (60-90mins)<br/>
+      [12] The Jupyter Ecosystem - Tony Hirst, Open University (60 mins)<br/>
+    </td>
+    <td>
+      RESEARCH SUPPORT<br/>
+      [13] The ORCID API for researcher identifiers - Monica Duke and Matteo Cancellieri (15mins)<br/>
+      [14] How can we teaching coding to scientists - Matthew Brett, University of Birmingham (90mins)<br/>
+    </td>
+  </tr>
+  <tr><td>1600</td><td colspan="3">Break</td>
+  </tr>
+  <tr><td>1630</td>
+    <td>
+    Lightning talks: (10mins max)<br/>
+    [15] Introducing EduTech: best practice ideas for engaging staff and students - Dawn Rimmer, Bromsgrove School<br/>
+    [16] Accessibility of maths on the web - Christian Lawson-Perfect, University of Newcastle<br/>
+    </td>
+    <td>
+    </td>
+    <td>
+    </td>
+  </tr>
+  <tr><td>1800-1930</td><td colspan="3">Informal networking / recharge time</td></tr>
+  <tr><td>1930-2130</td><td colspan="3">Dinner</td></tr>
 </table>
 
 # Day two:
