@@ -9,9 +9,11 @@ _NB: Formatting still needs tidying up_
 
 UCISA and Jisc are working with the developer community to create a unique event that combines continuing professional development with exposure to the latest in emerging technologies, and gives developers who attend the opportunity to showcase their creativity.
  
-Day one:
 
 <table>
+<tr>
+  <th colspan="4">Day one</th>
+</tr>
 <tr>
   <th>Time</th>
   <th>Main room</th>
@@ -77,11 +79,10 @@ Day one:
 </tr>
 <tr><td>1800-1930</td><td colspan="3">Informal networking / recharge time</td></tr>
 <tr><td>1930-2130</td><td colspan="3">Dinner</td></tr>
-</table>
 
-Day two:
-
-<table>
+<tr>
+  <th colspan="4">Day two</th>
+</tr>
 <tr>
   <th>Time</th>
   <th>Main room</th>
