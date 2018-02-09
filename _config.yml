@@ -26,7 +26,7 @@ navbar-links:
   About: "about"
   Agenda: "agenda"
   Links:
-    - UCISA: "https://www.ucisa.ac.uk",
+    - UCISA: "https://www.ucisa.ac.uk"
     - Jisc: "https://www.jisc.ac.uk"
   Sessions: "sessions"
 
