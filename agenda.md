@@ -10,6 +10,7 @@ _NB: Formatting still needs tidying up_
 UCISA and Jisc are working with the developer community to create a unique event that combines continuing professional development with exposure to the latest in emerging technologies, and gives developers who attend the opportunity to showcase their creativity.
  
 Day one:
+
 <table>
 <tr>
   <td>Time</td>
@@ -79,6 +80,7 @@ Day one:
 </table>
 
 Day two:
+
 <table>
 <tr>
   <td>Time</td>
