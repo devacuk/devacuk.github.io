@@ -2,6 +2,8 @@
 layout: default
 title: We make stuff
 ---
+_NB: Formatting still needs tidying up_
+
 # We make stuff
 ## dev.ac.uk: a unique free event by and for developers
 
