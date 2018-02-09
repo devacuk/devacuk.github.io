@@ -77,7 +77,7 @@ UCISA and Jisc are working with the developer community to create a unique event
   <td>
   </td>
 </tr>
-<tr><td>1800-1930</td><td colspan="3">Informal networking and recharge time</br>testing</td></tr>
+<tr><td>1800-1930</td><td colspan="3">Informal networking / recharge time</td></tr>
 <tr><td>1930-2130</td><td colspan="3">Dinner</td></tr>
 
 <tr>
@@ -118,36 +118,36 @@ UCISA and Jisc are working with the developer community to create a unique event
 <tr>
   <td>1315</td>
   <td>
-    TECHNOLOGY (RESEARCH)</br>
-    [17] Visualising your data in Unity3D - Erick Martins Ratamero, University of Warwick (20mins)</br>
-    [18] SharePoint Migration using PowerShell - SharePoint Migration using PowerShell - Tristian O’Brien, University of Brighton (40mins)</br>
+    TECHNOLOGY (RESEARCH)<br/>
+    [17] Visualising your data in Unity3D - Erick Martins Ratamero, University of Warwick (20mins)<br/>
+    [18] SharePoint Migration using PowerShell - SharePoint Migration using PowerShell - Tristian O’Brien, University of Brighton (40mins)<br/>
   </td>
   <td>
-    TECHNOLOGY</br>
-    [19] Mathematical e-assessment software - Christian Lawson-Perfect, University of Newcastle (30mins)</br>
-    [20] Building a Learner Management System: a Just in Time approach - Jim Everett, University of Strathclyde (30mins)</br>
+    TECHNOLOGY<br/>
+    [19] Mathematical e-assessment software - Christian Lawson-Perfect, University of Newcastle (30mins)<br/>
+    [20] Building a Learner Management System: a Just in Time approach - Jim Everett, University of Strathclyde (30mins)<br/>
   </td>
   <td>
-    STUDENT ADMINISTRATION</br>
-    [21] Student Checklist Manifesto - Arul Vaithilingam, York St John University (10-15mins)</br>
-    [22] Machine Learning at the OU -  Juliette Culver, Open University (45mins)</br>
+    STUDENT ADMINISTRATION<br/>
+    [21] Student Checklist Manifesto - Arul Vaithilingam, York St John University (10-15mins)<br/>
+    [22] Machine Learning at the OU -  Juliette Culver, Open University (45mins)<br/>
   </td>
 </tr>
 <tr><td>1415</td><td colspan="3">Break</td></tr>
 <tr>
   <td>1430</td>
   <td>
-    DEVELOPER COMMUNITY</br>
-    [23] Academic developer culture - Alex Dutton, University of Oxford (60mins)</br>
+    DEVELOPER COMMUNITY<br/>
+    [23] Academic developer culture - Alex Dutton, University of Oxford (60mins)<br/>
   </td>
   <td>
-    TECHNOLOGY</br>
-    [24] Using ‘the cloud’ to support international teaching - Stephen Robinson, Lancaster University (60mins)</br>
+    TECHNOLOGY<br/>
+    [24] Using ‘the cloud’ to support international teaching - Stephen Robinson, Lancaster University (60mins)<br/>
   </td>
   <td>
-    TECHNOLOGY</br>
-    [25] Knocking down silos: an introduction to the International Image Interoperability Framework (IIIF) APIs - Claire Knowles and Glen Robson, University of Edinburgh (30mins)</br>
-    [26] Creating an e-Learning authoring tool for HE - Simon Date, King’s College London (30mins)</br>
+    TECHNOLOGY<br/>
+    [25] Knocking down silos: an introduction to the International Image Interoperability Framework (IIIF) APIs - Claire Knowles and Glen Robson, University of Edinburgh (30mins)<br/>
+    [26] Creating an e-Learning authoring tool for HE - Simon Date, King’s College London (30mins)<br/>
   </td>
 </tr>
 <tr><td>1530</td><td>Wrap up and close</td><td></td><td></td></tr>
