@@ -23,7 +23,8 @@ Day one:
 </tr>
 <tr>
   <td>1000</td>
-  <td colspan="3">Arrival and registration WITH COFFEE</td></tr>
+  <td colspan="3">Arrival and registration WITH COFFEE</td>
+</tr>
 <tr>
   <td>1030</td>
   <td>Welcome and introduction</td>
@@ -47,7 +48,8 @@ Day one:
     [6] Behaviour Driven Development with SpecFlow and Selenium - Antony Jackson, London Business School (60 mins)<br/>
   </td>
 </tr>
-<tr><td>1300</td><td colspan="3">Lunch</td></tr>
+<tr><td>1300</td><td colspan="3">Lunch</td>
+</tr>
 <tr><td>1400</td>
   <td>
     PROFESSIONAL PRACTICE<br/>
@@ -66,7 +68,8 @@ Day one:
     [14] How can we teaching coding to scientists? - Matthew Brett, University of Birmingham (90mins)<br/>
   </td>
 </tr>
-<tr><td>1600</td><td colspan="3">Break</td></tr>
+<tr><td>1600</td><td colspan="3">Break</td>
+</tr>
 <tr><td>1630</td>
   <td>
   Lightning talks: (10mins max)<br/>
@@ -78,8 +81,10 @@ Day one:
   <td>
   </td>
 </tr>
-<tr><td>1800-1930</td><td colspan="3">Informal networking / recharge time</td></tr>
-<tr><td>1930-2130</td><td colspan="3">Dinner</td></tr>
+<tr><td>1800-1930</td><td colspan="3">Informal networking / recharge time</td>
+</tr>
+<tr><td>1930-2130</td><td colspan="3">Dinner</td>
+</tr>
 </table>
 
 Day two:
@@ -106,14 +111,16 @@ Day two:
   <td>Unconference 2</td>
   <td>Unconference 3</td>
 </tr>
-<tr><td>1045</td><td colspan="3">Break</td></tr>
+<tr><td>1045</td><td colspan="3">Break</td>
+</tr>
 <tr>
   <td>1115</td>
   <td>Unconference 4</td>
   <td>Unconference 5</td>
   <td>Unconference 6</td>
 </tr>
-<tr><td>1200</td><td colspan="3">Lunch</td></tr>
+<tr><td>1200</td><td colspan="3">Lunch</td>
+</tr>
 <tr>
   <td>1300</td>
   <td>Welcome and pitches for unconference sessions</td>
@@ -138,7 +145,8 @@ Day two:
     [22] Machine Learning at the OU -  Juliette Culver, Open University (45mins)<br/>
   </td>
 </tr>
-<tr><td>1415</td><td colspan="3">Break</td></tr>
+<tr><td>1415</td><td colspan="3">Break</td>
+</tr>
 <tr>
   <td>1430</td>
   <td>
@@ -155,7 +163,8 @@ Day two:
     [26] Creating an e-Learning authoring tool for HE - Simon Date, King’s College London (30mins)<br/>
   </td>
 </tr>
-<tr><td>1530</td><td>Wrap up and close</td><td></td><td></td></tr>
+<tr><td>1530</td><td>Wrap up and close</td><td></td><td></td>
+</tr>
 <tr><td>1600</td><td colspan="3">Departures
 
 
