@@ -2,7 +2,7 @@
 layout: default
 title: We make stuff
 ---
-_NB: Formatting still needs tidying up_
+_NB: Agenda still subject to final changes!_
 
 # We make stuff
 ## dev.ac.uk: a unique free event by and for developers
