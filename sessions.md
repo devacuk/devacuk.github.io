@@ -202,7 +202,7 @@ demonstration of tools and approaches
 
 ### 15. Accessibility of maths on the web - Christian Lawson-Perfect, University of Newcastle
 
-**Type of session:** Lightning talk/Demo
+**Type of session:** Lightning talk
 
 **Description:** I’ll talk about some of the particular challenges mathematics poses with respect to accessibility, and demonstrate some technologies that are aiming to improve it, including MathJax’s screenreader support, and a Markdown editor adapted for a maths student with limited mobility
 
@@ -226,7 +226,7 @@ demonstration of tools and approaches
 
 ### 17. Student Checklist Manifesto - Arul Vaithilingam, York St John University
 
-**Type of session:** Presentation
+**Type of session:** Lightning talk
 
 **Description:** In this presentation, I will outline how the student checklist can be created, accessed, utilised, benefited, shared & improved.
 
@@ -236,7 +236,7 @@ demonstration of tools and approaches
 
 ### 18. Visualising your data in Unity3D - Erick Martins Ratamero, University of Warwick
 
-**Type of session:** Presentation
+**Type of session:** Lightning talk
 
 **Description:** In this presentation I will go through some examples of data visualisation in Unity3D and outline the advantages of using this engine for your own data
 
