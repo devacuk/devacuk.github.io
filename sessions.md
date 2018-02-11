@@ -1,5 +1,5 @@
 
-_NB: Final agenda still subject to change!__
+_NB: Final agenda still subject to change!_
 
 ### 1. The Life Academic - Chris Gutteridge, University of Southampton
 
@@ -137,30 +137,7 @@ _NB: Final agenda still subject to change!__
 
 **Prerequisites for delegates attending the session:** Interest in how to get started with AWS, early days in using AWS
 
-### 12. The Jupyter Ecosystem - Tony Hirst, Open University
-
-**Type of session:** needs a good half hour; could be done as a practical session up to 2 hrs; whatever fits best
-
-**Description:** Originally developed as IPython notebooks, Jupyter Notebooks provide a browser based, interactive programming environment that blend text, executable code and code outputs (tables, charts, embedded HTML widgets) in a single document. Designed initially to support reproducible research, notebooks are increasingly used to support teaching and learning as well as research. But the notebooks are only part of the story. This session will review the whole Jupyter ecosystem, including: Jupyter notebooks as notebooks as well as interactive slideshows (Jupyter RISE); creating runnable Jupyter notebook environments from Github repositories (Binderhub); using notebooks to define APIs and dashboards; Jupyter multi-user notebook server (Jupyterhub); hosting considerations.
-
-**Topics to be covered:** Jupyter notebooks, Jupyterhub, repo2docker, Binderhub, hosting requirements (so a bit of docker…)
-
-**Approximate length of session:** as required to fit the programme
-
-**Prerequisites for delegates attending the session:** if we do interactive stuff, laptops, network connection.
-
-### 13. The ORCID API for researcher identifiers - Monica Duke, Jisc and Matteo Cancellieri, Open University
-
-**Type of session:** Lightning talk
-
-**Description:** An introduction to the ORCID API, how to access it, how to explore it + invite to jisc ORCID hackday 
-Topics to be covered:** researcher identifiers, ORCID API
-
-**Approximate length of session:** 10 minutes
-
-**Prerequisites for delegates attending the session:** an interest in scholarly communications and the role of researcher identifiers
-
-### 14. How can we teach coding to scientists? Matthew Brett, University of Birmingham
+### 12. How can we teach coding to scientists? Matthew Brett, University of Birmingham
 
 **Type of session:** Presentation/Lightning talk/Hands on/Demo/Other
 I think this is an Other, but closest to a presentation.
@@ -199,7 +176,19 @@ demonstration of tools and approaches.
 
 **Approximate length of session:** 90 minutes.
 
-### 15. Introducing EduTech: best practice ideas for engaging staff and students - Dawn Rimmer, Bromsgrove School
+### 13. The Jupyter Ecosystem - Tony Hirst, Open University
+
+**Type of session:** needs a good half hour; could be done as a practical session up to 2 hrs; whatever fits best
+
+**Description:** Originally developed as IPython notebooks, Jupyter Notebooks provide a browser based, interactive programming environment that blend text, executable code and code outputs (tables, charts, embedded HTML widgets) in a single document. Designed initially to support reproducible research, notebooks are increasingly used to support teaching and learning as well as research. But the notebooks are only part of the story. This session will review the whole Jupyter ecosystem, including: Jupyter notebooks as notebooks as well as interactive slideshows (Jupyter RISE); creating runnable Jupyter notebook environments from Github repositories (Binderhub); using notebooks to define APIs and dashboards; Jupyter multi-user notebook server (Jupyterhub); hosting considerations.
+
+**Topics to be covered:** Jupyter notebooks, Jupyterhub, repo2docker, Binderhub, hosting requirements (so a bit of docker…)
+
+**Approximate length of session:** as required to fit the programme
+
+**Prerequisites for delegates attending the session:** if we do interactive stuff, laptops, network connection.
+
+### 14. Introducing EduTech: best practice ideas for engaging staff and students - Dawn Rimmer, Bromsgrove School
 
 **Type of session:** Presentation/Lightning talk
 
@@ -211,7 +200,7 @@ demonstration of tools and approaches.
 
 **Prerequisites for delegates attending the session:** Nothing, except patience with FE teacher talking from a pedagogical, teaching & learning development perspective!
 
-### 16. Accessibility of maths on the web - Christian Lawson-Perfect, University of Newcastle
+### 15. Accessibility of maths on the web - Christian Lawson-Perfect, University of Newcastle
 
 **Type of session:** Lightning talk/Demo
 
@@ -223,7 +212,28 @@ demonstration of tools and approaches.
 
 **Prerequisites for delegates attending the session:** None, but aimed at anyone responsible for putting maths on the web or with responsibility for students with accessibility needs.
 
-### 17. Visualising your data in Unity3D - Erick Martins Ratamero, University of Warwick
+### 16. The ORCID API for researcher identifiers - Monica Duke, Jisc and Matteo Cancellieri, Open University
+
+**Type of session:** Lightning talk
+
+**Description:** An introduction to the ORCID API, how to access it, how to explore it + invite to jisc ORCID hackday 
+Topics to be covered:** researcher identifiers, ORCID API
+
+**Approximate length of session:** 10 minutes
+
+**Prerequisites for delegates attending the session:** an interest in scholarly communications and the role of researcher identifiers
+
+### 17. Student Checklist Manifesto - Arul Vaithilingam, York St John University
+
+**Type of session:** Presentation
+
+**Description:** In this presentation, I will outline how the student checklist can be created, accessed, utilised, benefited, shared & improved.
+
+**Topics to be covered:** Time Management, Cost Effective, Benefits
+
+**Approximate length of session:** 10-15 mins.
+
+### 18. Visualising your data in Unity3D - Erick Martins Ratamero, University of Warwick
 
 **Type of session:** Presentation (or Lightning Talk if necessary)
 
@@ -233,7 +243,7 @@ demonstration of tools and approaches.
 
 **Approximate length of session:** 20 minutes (for presentation), 5 minutes (for lightning talk)
 
-### 18.  SharePoint Migration using PowerShell - Tristian O’Brien, University of Brighton
+### 19.  SharePoint Migration using PowerShell - Tristian O’Brien, University of Brighton
 
 **Type of session:** Demo
 
@@ -245,7 +255,7 @@ demonstration of tools and approaches.
 
 **Prerequisites for delegates attending the session:** none, but SharePoint and PowerShell background advantageous
  
-### 19. Mathematical e-assessment software - Christian Lawson-Perfect, University of Newcastle
+### 20. Mathematical e-assessment software - Christian Lawson-Perfect, University of Newcastle
 
 **Type of session:** Demo/Hands-on
 
@@ -257,7 +267,7 @@ demonstration of tools and approaches.
 
 **Prerequisites for delegates attending the session:** Web browser on any kind of device. Some knowledge of university-level maths; parsers; infoviz will be useful.
 
-### 20. Building a Learner Management System:** a Just In Time approach - Jim Everett, University of Strathclyde
+### 21. Building a Learner Management System:** a Just In Time approach - Jim Everett, University of Strathclyde
 
 **Type of session:** Presentation
 
@@ -269,16 +279,6 @@ The portal is being delivered using a “just-in-time” agile approach with lea
 Topics to be covered: Agile Project Management, .NET + JavaScript development
 Approximate length of session:** 30min
  
-### 21. Student Checklist Manifesto - Arul Vaithilingam, York St John University
-
-**Type of session:** Presentation
-
-**Description:** In this presentation, I will outline how the student checklist can be created, accessed, utilised, benefited, shared & improved.
-
-**Topics to be covered:** Time Management, Cost Effective, Benefits
-
-**Approximate length of session:** 10-15 mins.
-
 ### 22. Introduction to Machine Learning - Juliette Culver, Open University
 
 **Type of session:** Presentation

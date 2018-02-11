@@ -58,8 +58,8 @@ UCISA and Jisc are working with the developer community to create a unique event
     </td>
     <td valign="top">
       RESEARCH SUPPORT<br/><br/>
-      [14] How can we teaching coding to scientists - Matthew Brett, University of Birmingham (60mins)<br/><br/>
-      [12] The Jupyter Ecosystem - Tony Hirst, Open University (60 mins)<br/>
+      [12] How can we teaching coding to scientists - Matthew Brett, University of Birmingham (60mins)<br/><br/>
+      [13] The Jupyter Ecosystem - Tony Hirst, Open University (60 mins)<br/>
     </td>
   
   <tr><td>1600</td><td colspan="3">Break</td>
@@ -67,10 +67,10 @@ UCISA and Jisc are working with the developer community to create a unique event
   <tr><td>1630</td>
     <td valign="top">
     Lightning talks: (10mins max)<br/><br/>
-    [15] Introducing EduTech: best practice ideas for engaging staff and students - Dawn Rimmer, Bromsgrove School<br/><br/>
-    [16] Accessibility of maths on the web - Christian Lawson-Perfect, University of Newcastle<br/><br/>
-    [13] The ORCID API for researcher identifiers - Monica Duke and Matteo Cancellieri<br/><br/>
-    [21] Student Checklist Manifesto - Arul Vaithilingam, York St John University<br/>
+    [14] Introducing EduTech: best practice ideas for engaging staff and students - Dawn Rimmer, Bromsgrove School<br/><br/>
+    [15] Accessibility of maths on the web - Christian Lawson-Perfect, University of Newcastle<br/><br/>
+    [16] The ORCID API for researcher identifiers - Monica Duke and Matteo Cancellieri<br/><br/>
+    [17] Student Checklist Manifesto - Arul Vaithilingam, York St John University<br/>
     </td>
     <td>
     </td>
@@ -116,13 +116,13 @@ UCISA and Jisc are working with the developer community to create a unique event
     <td>1315</td>
     <td valign="top">
       TECHNOLOGY<br/><br/>
-      [17] Visualising your data in Unity3D - Erick Martins Ratamero, University of Warwick (20mins)<br/><br/>
-      [18] SharePoint Migration using PowerShell - SharePoint Migration using PowerShell - Tristian O’Brien, University of Brighton (40mins)<br/>
+      [18] Visualising your data in Unity3D - Erick Martins Ratamero, University of Warwick (20mins)<br/><br/>
+      [19] SharePoint Migration using PowerShell - SharePoint Migration using PowerShell - Tristian O’Brien, University of Brighton (40mins)<br/>
     </td>
     <td valign="top">
       TECHNOLOGY<br/><br/>
-      [19] Mathematical e-assessment software - Christian Lawson-Perfect, University of Newcastle (30mins)<br/><br/>
-      [20] Building a Learner Management System: a Just in Time approach - Jim Everett, University of Strathclyde (30mins)<br/>
+      [20] Mathematical e-assessment software - Christian Lawson-Perfect, University of Newcastle (30mins)<br/><br/>
+      [21] Building a Learner Management System: a Just in Time approach - Jim Everett, University of Strathclyde (30mins)<br/>
     </td>
     <td valign="top">
       TECHNOLOGY<br/><br/>
