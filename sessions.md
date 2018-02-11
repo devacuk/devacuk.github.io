@@ -97,7 +97,7 @@ _NB: Final agenda still subject to change!_
 
 **Type of session:** Presentation + workshop
 
-**Description:**     In the days of malware, GDPR and the rest, how do we cope with legacy systems built by you, or your predecessors, that are now a liability? How do we handle the politics of decades of evolving technology? Chris will start the session with a short talk on his experiences (15 mins) and then lead a discussion to discuss people in the room’s challenges and the group’s suggestions on how to address them. A note taker will attempt to capture the best bits into a document we can improve on later and share with the community. This document https://docs.google.com/document/d/1vd8yOagTPPDcZsHpNMh-bIiKL3tjPDb4xrbXbP1hrdM/edit\# was produced in a similar session last year
+**Description:**     In the days of malware, GDPR and the rest, how do we cope with legacy systems built by you, or your predecessors, that are now a liability? How do we handle the politics of decades of evolving technology? Chris will start the session with a short talk on his experiences (15 mins) and then lead a discussion to discuss people in the room’s challenges and the group’s suggestions on how to address them. A note taker will attempt to capture the best bits into a document we can improve on later and share with the community. <a href="https://docs.google.com/document/d/1vd8yOagTPPDcZsHpNMh-bIiKL3tjPDb4xrbXbP1hrdM/edit\#">This document</a> was produced in a similar session last year
 
 **Topics to be covered:**  Coping with technical debt, strategic procrastination, tips on tech and politics
 
@@ -289,7 +289,7 @@ Topics to be covered: Agile Project Management, .NET + JavaScript development
 
 **Approximate length of session:** 45 mins
 
-**Prerequisites for delegates attending the session:** There will be a short demo using Python 3 – for anybody wanting to follow along, downloading the Anaconda Python distribution (https://www.anaconda.com/download/) is recommended
+**Prerequisites for delegates attending the session:** There will be a short demo using Python 3 – for anybody wanting to follow along, downloading <a href="https://www.anaconda.com/download/">the Anaconda Python distribution</a> is recommended
 
 ### 23. Academic developer culture - Alex Dutton, University of Oxford
 
@@ -313,7 +313,7 @@ Topics to be covered: Agile Project Management, .NET + JavaScript development
 
 **Type of session:** Presentation and Demo
 
-**Description:** An introduction to the IIIF image and presentation APIs that are used for serving and manipulating images online. It will also cover the forthcoming IIIF v3 APIs that extends IIIF for audio and video content. Tools and websites utilising IIIF will be demoed as well as examples of cool tools from the IIIF Awesome site. https://github.com/IIIF/awesome-iiif
+**Description:** An introduction to the IIIF image and presentation APIs that are used for serving and manipulating images online. It will also cover the forthcoming IIIF v3 APIs that extends IIIF for audio and video content. Tools and websites utilising IIIF will be demoed as well as examples of cool tools from the <a href="https://github.com/IIIF/awesome-iiif">IIIF Awesome</a> site
 
 **Topics to be covered:**  Online interoperability with images and audio visual content
 
