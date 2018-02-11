@@ -2,7 +2,7 @@
 layout: default
 title: dev.ac.uk | We make stuff
 bigimg:
-  - "_img/devacuk_bg.jpg" : "dev.ac.uk | We make stuff"
+  - "/images/devacuk_bg.jpg" : "dev.ac.uk | We make stuff"
 ---
 # dev.ac.uk | We make stuff
 ## A unique free event by and for developers
