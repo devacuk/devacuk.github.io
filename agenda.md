@@ -66,7 +66,7 @@ UCISA and Jisc are working with the developer community to create a unique event
   </tr>
   <tr><td>1630</td>
     <td valign="top">
-    Lightning talks: (10mins max)<br/><br/>
+    Lightning talks: (10mins each)<br/><br/>
     [14] Introducing EduTech: best practice ideas for engaging staff and students - Dawn Rimmer, Bromsgrove School<br/><br/>
     [15] Accessibility of maths on the web - Christian Lawson-Perfect, University of Newcastle<br/><br/>
     [16] The ORCID API for researcher identifiers - Monica Duke and Matteo Cancellieri<br/><br/>
