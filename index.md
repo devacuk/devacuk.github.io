@@ -14,4 +14,6 @@ UCISA and Jisc are working with the developer community to create a unique event
 
 <a href="https://www.jisc.ac.uk"><img src="/_img/jisc-logo-small.png"></a>&nbsp;&nbsp;
 <a href="https://www.ucisa.ac.uk"><img src="/_img/ucisa-logo-small.png"></a><br/>
+![Jisc](/_img/jisc-logo-small.png)
+![UCISA](/_img/ucisa-logo-small.png)
 
