@@ -12,6 +12,6 @@ UCISA and Jisc are working with the developer community to create a unique event
 * <a href="http://devacuk.github.io/agenda">Agenda</a><br/>
 * <a href="http://devacuk.github.io/sessions">Sessions</a><br/>
 
-<a href="https://www.jisc.ac.uk"><img src="_img/jisc-logo-small.png"></a>&nbsp;&nbsp;
-<a href="https://www.ucisa.ac.uk"><img src="_img/ucisa-logo-small.png"></a><br/>
+<a href="https://www.jisc.ac.uk"><img src="/_img/jisc-logo-small.png"></a>&nbsp;&nbsp;
+<a href="https://www.ucisa.ac.uk"><img src="/_img/ucisa-logo-small.png"></a><br/>
 
