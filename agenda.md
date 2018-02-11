@@ -29,18 +29,18 @@ UCISA and Jisc are working with the developer community to create a unique event
   <tr><td>1100</td>
     <td valign="top">
       RESEARCH SUPPORT<br/><br/>
-      [1] The life academic - Chris Gutteridge, University of Southampton (30mins)<br/><br/>
-      [2] A day in the life of a Research Software Engineer - James Grant, University of Bath (60mins)<br/>
+      [1] The life academic - Chris Gutteridge, University of Southampton (30 mins)<br/><br/>
+      [2] A day in the life of a Research Software Engineer - James Grant, University of Bath (60 mins)<br/>
     </td>
     <td valign="top">
       TECHNOLOGY<br/><br/>
-      [3] Create your first ARKit app in Unity3D - Suhad Aljundi, Jisc (45mins)<br/><br/>
-      [4] Creating VR for Learning Spaces in Unreal Engine - Matt Ramirez, Jisc (60mins)<br/>
+      [3] Create your first ARKit app in Unity3D - Suhad Aljundi, Jisc (45 mins)<br/><br/>
+      [4] Creating VR for Learning Spaces in Unreal Engine - Matt Ramirez, Jisc (60 mins)<br/>
     </td>
     <td valign="top">
       TECHNOLOGY<br/><br/>
-      [5] WordPress : getting started with the academic swiss army knife - Pat Lockley, Pgogy Webstuff (45mins)<br/><br/>
-      [6] Behaviour Driven Development with SpecFlow and Selenium - Antony Jackson, London Business School (60mins)<br/>
+      [5] WordPress : getting started with the academic swiss army knife - Pat Lockley, Pgogy Webstuff (45 mins)<br/><br/>
+      [6] Behaviour Driven Development with SpecFlow and Selenium - Antony Jackson, London Business School (60 mins)<br/>
     </td>
   </tr>
   <tr><td>1300</td><td colspan="3">Lunch</td>
@@ -48,17 +48,17 @@ UCISA and Jisc are working with the developer community to create a unique event
   <tr><td>1400</td>
     <td valign="top">
       PROFESSIONAL PRACTICE<br/><br/>
-      [7] Implementing Agile - John Paul Jones, University of Cumbria (10mins)<br/><br/>
-      [8] Dealing with Technical Debt - Christopher Gutteridge, University of Southampton (60mins)<br/><br/>
-      [9] Developing in the current higher education economic climate - Joseph Baxter, University of Nottingham (30mins)<br/><br/>
-      [10] Test all the things! QA and CI at the OU - Mark Johnson, Open University (20mins)<br/>
+      [7] Implementing Agile - John Paul Jones, University of Cumbria (10 mins)<br/><br/>
+      [8] Dealing with Technical Debt - Christopher Gutteridge, University of Southampton (60 mins)<br/><br/>
+      [9] Developing in the current higher education economic climate - Joseph Baxter, University of Nottingham (30 mins)<br/><br/>
+      [10] Test all the things! QA and CI at the OU - Mark Johnson, Open University (20 mins)<br/>
     <td valign="top">
       TECHNOLOGY<br/><br/>
-      [11] Getting started with AWS - Stephen Robinson, Lancaster University (60-90mins)<br/>
+      [11] Getting started with AWS - Stephen Robinson, Lancaster University (90 mins)<br/>
     </td>
     <td valign="top">
       RESEARCH SUPPORT<br/><br/>
-      [12] How can we teaching coding to scientists - Matthew Brett, University of Birmingham (60mins)<br/><br/>
+      [12] How can we teaching coding to scientists - Matthew Brett, University of Birmingham (60 mins)<br/><br/>
       [13] The Jupyter Ecosystem - Tony Hirst, Open University (60 mins)<br/>
     </td>
   
@@ -66,10 +66,10 @@ UCISA and Jisc are working with the developer community to create a unique event
   </tr>
   <tr><td>1630</td>
     <td valign="top">
-    Lightning talks: (10mins each)<br/><br/>
+    Lightning talks: (10 mins each)<br/><br/>
     [14] Introducing EduTech: best practice ideas for engaging staff and students - Dawn Rimmer, Bromsgrove School<br/><br/>
     [15] Accessibility of maths on the web - Christian Lawson-Perfect, University of Newcastle<br/><br/>
-    [16] The ORCID API for researcher identifiers - Monica Duke and Matteo Cancellieri<br/><br/>
+    [16] The ORCID API for researcher identifiers - Monica Duke and Matteo Cancellieri, Jisc<br/><br/>
     [17] Student Checklist Manifesto - Arul Vaithilingam, York St John University<br/>
     </td>
     <td>
@@ -116,17 +116,17 @@ UCISA and Jisc are working with the developer community to create a unique event
     <td>1315</td>
     <td valign="top">
       TECHNOLOGY<br/><br/>
-      [18] Visualising your data in Unity3D - Erick Martins Ratamero, University of Warwick (20mins)<br/><br/>
-      [19] SharePoint Migration using PowerShell - SharePoint Migration using PowerShell - Tristian O’Brien, University of Brighton (40mins)<br/>
+      [18] Visualising your data in Unity3D - Erick Martins Ratamero, University of Warwick (20 mins)<br/><br/>
+      [19] SharePoint Migration using PowerShell - SharePoint Migration using PowerShell - Tristian O’Brien, University of Brighton (40 mins)<br/>
     </td>
     <td valign="top">
       TECHNOLOGY<br/><br/>
-      [20] Mathematical e-assessment software - Christian Lawson-Perfect, University of Newcastle (30mins)<br/><br/>
-      [21] Building a Learner Management System: a Just in Time approach - Jim Everett, University of Strathclyde (30mins)<br/>
+      [20] Mathematical e-assessment software - Christian Lawson-Perfect, University of Newcastle (30 mins)<br/><br/>
+      [21] Building a Learner Management System: a Just in Time approach - Jim Everett, University of Strathclyde (30 mins)<br/>
     </td>
     <td valign="top">
       TECHNOLOGY<br/><br/>
-      [22] Machine Learning at the OU -  Juliette Culver, Open University (45mins)<br/>
+      [22] Machine Learning at the OU -  Juliette Culver, Open University (45 mins)<br/>
     </td>
   </tr>
   <tr><td>1415</td><td colspan="3">Break</td></tr>
@@ -134,16 +134,16 @@ UCISA and Jisc are working with the developer community to create a unique event
     <td>1430</td>
     <td valign="top">
       DEVELOPER COMMUNITY<br/><br/>
-      [23] Academic developer culture - Alex Dutton, University of Oxford (60mins)<br/>
+      [23] Academic developer culture - Alex Dutton, University of Oxford (60 mins)<br/>
     </td>
     <td valign="top">
       TECHNOLOGY<br/><br/>
-      [24] Using ‘the cloud’ to support international teaching - Stephen Robinson, Lancaster University (60mins)<br/>
+      [24] Using ‘the cloud’ to support international teaching - Stephen Robinson, Lancaster University (60 mins)<br/>
     </td>
     <td valign="top">
       TECHNOLOGY<br/><br/>
-      [25] Knocking down silos: an introduction to the International Image Interoperability Framework (IIIF) APIs - Claire Knowles and Glen Robson, University of Edinburgh (30mins)<br/><br/>
-      [26] Creating an e-Learning authoring tool for HE - Simon Date, King’s College London (30mins)<br/>
+      [25] Knocking down silos: an introduction to the International Image Interoperability Framework (IIIF) APIs - Claire Knowles and Glen Robson, University of Edinburgh (30 mins)<br/><br/>
+      [26] Creating an e-Learning authoring tool for HE - Simon Date, King’s College London (30 mins)<br/>
     </td>
   </tr>
   <tr><td>1530</td><td>Wrap up and close</td><td></td><td></td></tr>
