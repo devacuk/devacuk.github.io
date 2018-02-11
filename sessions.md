@@ -236,7 +236,7 @@ demonstration of tools and approaches
 
 ### 18. Visualising your data in Unity3D - Erick Martins Ratamero, University of Warwick
 
-**Type of session:** Lightning talk
+**Type of session:** Presentation
 
 **Description:** In this presentation I will go through some examples of data visualisation in Unity3D and outline the advantages of using this engine for your own data
 
@@ -268,7 +268,7 @@ demonstration of tools and approaches
 
 **Prerequisites for delegates attending the session:** Web browser on any kind of device. Some knowledge of university-level maths; parsers; infoviz will be useful
 
-### 21. Building a Learner Management System:** a Just In Time approach - Jim Everett, University of Strathclyde
+### 21. Building a Learner Management System, a Just In Time approach - Jim Everett, University of Strathclyde
 
 **Type of session:** Presentation
 
