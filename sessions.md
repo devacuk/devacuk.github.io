@@ -176,7 +176,7 @@ demonstration of tools and approaches
 
 ### 13. The Jupyter Ecosystem - Tony Hirst, Open University
 
-**Type of session:** needs a good half hour; could be done as a practical session up to 2 hrs; whatever fits best
+**Type of session:** Hands on
 
 **Description:** Originally developed as IPython notebooks, Jupyter Notebooks provide a browser based, interactive programming environment that blend text, executable code and code outputs (tables, charts, embedded HTML widgets) in a single document. Designed initially to support reproducible research, notebooks are increasingly used to support teaching and learning as well as research. But the notebooks are only part of the story. This session will review the whole Jupyter ecosystem, including: Jupyter notebooks as notebooks as well as interactive slideshows (Jupyter RISE); creating runnable Jupyter notebook environments from Github repositories (Binderhub); using notebooks to define APIs and dashboards; Jupyter multi-user notebook server (Jupyterhub); hosting considerations
 
@@ -184,7 +184,7 @@ demonstration of tools and approaches
 
 **Approximate length of session:** 60 mins
 
-**Prerequisites for delegates attending the session:** if we do interactive stuff, laptops, network connection
+**Prerequisites for delegates attending the session:** If we do interactive stuff, laptops, network connection
 
 ### 14. Introducing EduTech: best practice ideas for engaging staff and students - Dawn Rimmer, Bromsgrove School
 
