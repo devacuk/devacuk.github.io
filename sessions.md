@@ -1,3 +1,7 @@
+---
+title: dev.ac.uk | Sessions
+layout: default
+---
 
 _NB: Final agenda still subject to change!_
 

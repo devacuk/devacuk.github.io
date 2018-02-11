@@ -1,6 +1,6 @@
 ---
 layout: default
-title: dev.ac.uk | We make stuff
+title: dev.ac.uk | Agenda
 ---
 _NB: Agenda still subject to final changes!_
 
