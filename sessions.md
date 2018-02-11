@@ -1,5 +1,5 @@
 
-_NB: Formatting still needs tidying up_
+_NB: Final agenda still subject to change!__
 
 ### 1. The Life Academic - Chris Gutteridge, University of Southampton
 
@@ -9,7 +9,7 @@ _NB: Formatting still needs tidying up_
 
 **Topics:** Understanding academics. Non technical, but useful to understand our users.
 
-**Duration:** 20-30 minutes
+**Duration:** 30 minutes
  
 ### 2. A day in the life of a Research Software Engineer - James Grant, University of Bath
 
