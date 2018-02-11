@@ -274,7 +274,7 @@ demonstration of tools and approaches
 
 **Description:** The University of Strathclyde recently moved its lifelong learning programme to an online self-service portal where learners can find, enrol, pay for and manage their classes. The new portal also incorporates the full range of administration and reporting functionality including programme management, learner management and integration with the central university student records system. The presentation will explore how the portal is being developed form both a technical and project management perspective
 
-The portal is being developed from scratch by the Development and Innovation Team on a .NET CMS platform (DNN) using a mix of T-SQL, C###, JavaScript and CMS plugins. We will investigate how this heterogeneous mix of development approaches is managed, and what we have found to be the benefits and complexities
+The portal is being developed from scratch by the Development and Innovation Team on a .NET CMS platform (DNN) using a mix of T-SQL, C\#, JavaScript and CMS plugins. We will investigate how this heterogeneous mix of development approaches is managed, and what we have found to be the benefits and complexities
 
 The portal is being delivered using a “just-in-time” agile approach with learners and administrators using the system as its functionality is being fleshed out. The presentation will explore the challenges of this approach and how it can be made to work for learners, administrators and developers.
 Topics to be covered: Agile Project Management, .NET + JavaScript development
