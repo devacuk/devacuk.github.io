@@ -21,8 +21,6 @@ _NB: Final agenda still subject to change!_
 
 **Approximate length of session:** 60 mins
 
-**Presentation requirements:** Projector/Screen
-
 **Prerequisites for delegates attending the session:** None
 
 ### 3. Create your first ARKit app in Unity3D - Suhad Aljundi, Jisc
