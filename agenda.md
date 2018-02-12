@@ -79,8 +79,8 @@ UCISA and Jisc are working with the developer community to create a unique event
     <td>
     </td>
   </tr>
-  <tr><td>1800-1930</td><td colspan="3">Informal networking / recharge time</td></tr>
-  <tr><td>1930-2130</td><td colspan="3">Dinner</td></tr>
+  <tr><td>1845-1930</td><td colspan="3">Drinks reception and informal networking in Courtyard Lounge</td></tr>
+  <tr><td>1930-2130</td><td colspan="3">Dinner in private dining room</td></tr>
   <tr><th colspan="4">Day Two:</th></tr>
   <tr>
     <th>Time</th>
