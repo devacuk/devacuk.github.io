@@ -38,7 +38,8 @@ UCISA and Jisc are working with the developer community to create a unique event
       [4] Creating VR for Learning Spaces in Unreal Engine - Matt Ramirez, Jisc (60 mins)<br/>
     </td>
     <td valign="top">
-      TECHNOLOGY<br/><br/>
+      TECHNOLOGY<br/>
+      Chair: Alex Dutton, University of Oxford<br/><br/>
       [5] WordPress : getting started with the academic swiss army knife - Pat Lockley, Pgogy Webstuff (45 mins)<br/><br/>
       [6] Behaviour Driven Development with SpecFlow and Selenium - Antony Jackson, London Business School (60 mins)<br/>
     </td>
@@ -57,7 +58,8 @@ UCISA and Jisc are working with the developer community to create a unique event
       [11] Getting started with AWS - Stephen Robinson, Lancaster University (90 mins)<br/>
     </td>
     <td valign="top">
-      RESEARCH SUPPORT<br/><br/>
+      RESEARCH SUPPORT<br/>
+      Chair: Alex Dutton, University of Oxford<br/><br/>
       [12] How can we teaching coding to scientists - Matthew Brett, University of Birmingham (60 mins)<br/><br/>
       [13] The Jupyter Ecosystem - Tony Hirst, Open University (60 mins)<br/>
     </td>
@@ -115,7 +117,8 @@ UCISA and Jisc are working with the developer community to create a unique event
   <tr>
     <td>1315</td>
     <td valign="top">
-      TECHNOLOGY<br/><br/>
+      TECHNOLOGY<br/>
+      Chair: Anna Mathews, UCISA<br/><br/>
       [18] Visualising your data in Unity3D - Erick Martins Ratamero, University of Warwick (20 mins)<br/><br/>
       [19] SharePoint Migration using PowerShell - SharePoint Migration using PowerShell - Tristian O’Brien, University of Brighton (40 mins)<br/>
     </td>
@@ -133,7 +136,8 @@ UCISA and Jisc are working with the developer community to create a unique event
   <tr>
     <td>1430</td>
     <td valign="top">
-      DEVELOPER COMMUNITY<br/><br/>
+      DEVELOPER COMMUNITY<br/>
+      Chair: Anna Mathews, UCISA<br/><br/>
       [23] Academic developer culture - Alex Dutton, University of Oxford (60 mins)<br/>
     </td>
     <td valign="top">
