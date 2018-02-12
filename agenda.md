@@ -28,10 +28,11 @@ UCISA and Jisc are working with the developer community to create a unique event
   </tr>
   <tr><td>1100</td>
     <td valign="top">
-      RESEARCH SUPPORT<br/><br/>
+      RESEARCH SUPPORT<br/>
+      Chair: Chris Gutteridge, University of Southampton<br/><br/>
       [1] The life academic - Chris Gutteridge, University of Southampton (30 mins)<br/><br/>
       [2] A day in the life of a Research Software Engineer - James Grant, University of Bath (60 mins)<br/>
-      [3] Cambridge vs. Oxford repository showdown! - Matteo Cancellieri, Open University (30 mins)<br/>
+      [3] Cambridge vs. Oxford repository showdown! - Matteo Cancellieri, Open University (30 mins)<br/><br/>
     </td>
     <td valign="top">
       TECHNOLOGY<br/><br/>
@@ -49,10 +50,11 @@ UCISA and Jisc are working with the developer community to create a unique event
   </tr>
   <tr><td>1400</td>
     <td valign="top">
-      PROFESSIONAL PRACTICE<br/><br/>
+      PROFESSIONAL PRACTICE<br/>
+      Chair: Chris Gutteridge, University of Southampton<br/><br/>
       [8] Implementing Agile - John Paul Jones, University of Cumbria (10 mins)<br/><br/>
       [9] Developing in the current higher education economic climate - Joseph Baxter, University of Nottingham (30 mins)<br/><br/>
-      [10] Test all the things! QA and CI at the OU - Mark Johnson, Open University (20 mins)<br/>
+      [10] Test all the things! QA and CI at the OU - Mark Johnson, Open University (20 mins)<br/><br/>
       [11] Dealing with Technical Debt - Christopher Gutteridge, University of Southampton (60 mins)<br/><br/>
     <td valign="top">
       TECHNOLOGY<br/><br/>
