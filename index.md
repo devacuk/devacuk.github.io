@@ -1,7 +1,7 @@
 ---
-layout: default
+layout: page
 title: dev.ac.uk :: We make stuff
-big-img:
+bigimg:
   - "/images/devacuk_bg.jpg" : "dev.ac.uk | We make stuff"
 css: "/css/index.css"
 ---
