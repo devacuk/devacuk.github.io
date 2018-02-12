@@ -31,7 +31,7 @@ UCISA and Jisc are working with the developer community to create a unique event
       RESEARCH SUPPORT<br/>
       Chair: Chris Gutteridge, University of Southampton<br/><br/>
       [1] The life academic - Chris Gutteridge, University of Southampton (30 mins)<br/><br/>
-      [2] A day in the life of a Research Software Engineer - James Grant, University of Bath (60 mins)<br/>
+      [2] A day in the life of a Research Software Engineer - James Grant, University of Bath (60 mins)<br/><br/>
       [3] Cambridge vs. Oxford repository showdown! - Matteo Cancellieri, Open University (30 mins)<br/><br/>
     </td>
     <td valign="top">
@@ -149,7 +149,7 @@ UCISA and Jisc are working with the developer community to create a unique event
     </td>
     <td valign="top">
       TECHNOLOGY<br/><br/>
-      [26] Knocking down silos: an introduction to the International Image Interoperability Framework (IIIF) APIs - Claire Knowles and Glen Robson, University of Edinburgh (30 mins)<br/><br/>
+      [26] Knocking down silos: an introduction to the International Image Interoperability Framework (IIIF) APIs - Claire Knowles, University of Edinburgh and Glen Robson, IIIF (30 mins)<br/><br/>
       [27] Creating an e-Learning authoring tool for HE - Simon Date, King’s College London (30 mins)<br/>
     </td>
   </tr>

@@ -325,7 +325,7 @@ Topics to be covered: Agile Project Management, .NET + JavaScript development
 
 **Approximate length of session:** 60 mins
 
-### 26. Knocking down silos: an introduction to the International Image Interoperability Framework (IIIF) APIs - Claire Knowles and Glen Robson, University of Edinburgh
+### 26. Knocking down silos: an introduction to the International Image Interoperability Framework (IIIF) APIs - Claire Knowles, University of Edinburgh and Glen Robson, IIIF
 
 **Type of session:** Presentation and Demo
 
