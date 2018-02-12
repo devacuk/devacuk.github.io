@@ -113,7 +113,7 @@ UCISA and Jisc are working with the developer community to create a unique event
   <tr><td>1200</td><td colspan="3">Lunch</td></tr>
   <tr>
     <td>1300</td>
-    <td>Welcome and pitches for unconference sessions</td>
+    <td>Welcome and pitches for sessions</td>
     <td></td>
     <td></td>
   </tr>
