@@ -5,6 +5,8 @@ layout: default
 
 _NB: Final agenda still subject to change!_
 
+For agenda please see https://devacuk.github.io/agenda
+
 ### 1. The Life Academic - Chris Gutteridge, University of Southampton
 
 **Type:** Presentation
