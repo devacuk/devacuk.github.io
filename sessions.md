@@ -153,8 +153,7 @@ _NB: Final agenda still subject to change!_
 
 ### 13. How can we teach coding to scientists? Matthew Brett, University of Birmingham
 
-**Type of session:** Presentation/Lightning talk/Hands on/Demo/Other
-I think this is an Other, but closest to a presentation
+**Type of session:** Presentation
 
 **Description:** Many scientists, myself included, have found themselves learning how
 to be developers.   We have had to do this in order to do our
@@ -169,9 +168,8 @@ arts and science students alike?  If we are going to do that, how will
 the universities we work in have to change, and how will we get there?
   What can we do for the students who find this very hard to learn?
 
-I will present the various approaches that I know of, including some
-live demonstrations of some of the latest tools, such as JupyterLab
-and interactive code / text Jupyter Notebooks.  I will present some
+I will present the various approaches that I know of, including
+interactive code / text Jupyter Notebooks, referring forwards to the following session by Tony Hirst.  I will talk about some
 recent courses I have been involved in that have tried to teach these
 methods, in Berkeley and Birmingham.  We will stop from time to
 discuss the issues that arise, and think of new ways of thinking about
