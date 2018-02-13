@@ -8,8 +8,8 @@ _NB: Agenda still subject to final changes!_
 
 UCISA and Jisc are working with the developer community to create a unique event that combines continuing professional development with exposure to the latest in emerging technologies, and gives developers who attend the opportunity to showcase their creativity
 
-For session descriptions please see https://devacuk.github.io/sessions
- 
+For session descriptions please see <a hef="https://devacuk.github.io/sessions">https://devacuk.github.io/sessions</a>
+
 <table>
   <tr><th colspan="4">Day One:</th></tr>
   <tr>
