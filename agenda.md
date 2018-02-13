@@ -71,7 +71,7 @@ UCISA and Jisc are working with the developer community to create a unique event
   
   <tr><td>1600</td><td colspan="3">Break</td>
   </tr>
-  <tr><td>1630</td>
+  <tr><td valign="top">1630</td>
     <td valign="top">
     Lightning talks: (10 mins each)<br/>
     Chair: Martin Hamilton, Jisc<br/><br/>
