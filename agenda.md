@@ -36,7 +36,7 @@ UCISA and Jisc are working with the developer community to create a unique event
     </td>
     <td valign="top">
       TECHNOLOGY<br/>
-      Chair: Martin hamilton, Jisc<br/><br/>
+      Chair: Martin Hamilton, Jisc<br/><br/>
       [4] Create your first ARKit app in Unity3D - Suhad Aljundi, Jisc (45 mins)<br/><br/>
       [5] Creating VR for Learning Spaces in Unreal Engine - Matt Ramirez, Jisc (60 mins)<br/>
     </td>
@@ -59,7 +59,7 @@ UCISA and Jisc are working with the developer community to create a unique event
       [11] Dealing with Technical Debt - Christopher Gutteridge, University of Southampton (60 mins)<br/><br/>
     <td valign="top">
       TECHNOLOGY<br/>
-      Chair: Martin hamilton, Jisc<br/><br/>
+      Chair: Martin Hamilton, Jisc<br/><br/>
       [12] Getting started with AWS - Stephen Robinson, Lancaster University (90 mins)<br/>
     </td>
     <td valign="top">
@@ -73,7 +73,8 @@ UCISA and Jisc are working with the developer community to create a unique event
   </tr>
   <tr><td>1630</td>
     <td valign="top">
-    Lightning talks: (10 mins each)<br/><br/>
+    Lightning talks: (10 mins each)<br/>
+    Chair: Martin Hamilton, Jisc<br/><br/>
     [15] Introducing EduTech: best practice ideas for engaging staff and students - Dawn Rimmer, Bromsgrove School<br/><br/>
     [16] Accessibility of maths on the web - Christian Lawson-Perfect, University of Newcastle<br/><br/>
     [17] The ORCID API for researcher identifiers - Monica Duke, Jisc<br/><br/>
@@ -134,7 +135,8 @@ UCISA and Jisc are working with the developer community to create a unique event
       [22] Building a Learner Management System: a Just in Time approach - Jim Everett, University of Strathclyde (30 mins)<br/>
     </td>
     <td valign="top">
-      TECHNOLOGY<br/><br/>
+      TECHNOLOGY<br/>
+      Chair: Martin Hamilton, Jisc<br/><br/>
       [23] Introduction to Machine Learning - Juliette Culver, Open University (45 mins)<br/>
     </td>
   </tr>
@@ -152,7 +154,8 @@ UCISA and Jisc are working with the developer community to create a unique event
       [25] Using ‘the cloud’ to support international teaching - Stephen Robinson, Lancaster University (60 mins)<br/>
     </td>
     <td valign="top">
-      TECHNOLOGY<br/><br/>
+      TECHNOLOGY<br/>
+      Chair: Martin Hamilton, Jisc<br/><br/>
       [26] Knocking down silos: an introduction to the International Image Interoperability Framework (IIIF) APIs - Claire Knowles, University of Edinburgh and Glen Robson, IIIF (30 mins)<br/><br/>
       [27] Creating an e-Learning authoring tool for HE - Simon Date, King’s College London (30 mins)<br/>
     </td>
