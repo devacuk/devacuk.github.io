@@ -26,7 +26,7 @@ UCISA and Jisc are working with the developer community to create a unique event
     <td></td>
     <td></td>
   </tr>
-  <tr><td>1100</td>
+  <tr><td valign="top">1100</td>
     <td valign="top">
       RESEARCH SUPPORT<br/>
       Chair: Chris Gutteridge, University of Southampton<br/><br/>
@@ -49,7 +49,7 @@ UCISA and Jisc are working with the developer community to create a unique event
   </tr>
   <tr><td>1300</td><td colspan="3">Lunch</td>
   </tr>
-  <tr><td>1400</td>
+  <tr><td valign="top">1400</td>
     <td valign="top">
       PROFESSIONAL PRACTICE<br/>
       Chair: Chris Gutteridge, University of Southampton<br/><br/>
@@ -121,7 +121,7 @@ UCISA and Jisc are working with the developer community to create a unique event
     <td></td>
   </tr>
   <tr>
-    <td>1315</td>
+    <td valign="top">1315</td>
     <td valign="top">
       TECHNOLOGY<br/>
       Chair: Anna Mathews, UCISA<br/><br/>
@@ -142,7 +142,7 @@ UCISA and Jisc are working with the developer community to create a unique event
   </tr>
   <tr><td>1415</td><td colspan="3">Break</td></tr>
   <tr>
-    <td>1430</td>
+    <td valign="top">1430</td>
     <td valign="top">
       DEVELOPER COMMUNITY<br/>
       Chair: Anna Mathews, UCISA<br/><br/>
