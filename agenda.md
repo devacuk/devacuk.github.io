@@ -132,7 +132,7 @@ UCISA and Jisc are working with the developer community to create a unique event
     </td>
     <td valign="top">
       TECHNOLOGY<br/><br/>
-      [23] Machine Learning at the OU -  Juliette Culver, Open University (45 mins)<br/>
+      [23] Introduction to Machine Learning - Juliette Culver, Open University (45 mins)<br/>
     </td>
   </tr>
   <tr><td>1415</td><td colspan="3">Break</td></tr>
