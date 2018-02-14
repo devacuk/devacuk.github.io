@@ -80,6 +80,7 @@ For session descriptions please see <a hef="https://devacuk.github.io/sessions">
     [15] Accessibility of maths on the web - Christian Lawson-Perfect, University of Newcastle<br/><br/>
     [16] The ORCID API for researcher identifiers - Monica Duke, Jisc<br/><br/>
     [17] Student Checklist Manifesto - Arul Vaithilingam, York St John University<br/>
+    ... your talk here? Add your name to the sign up sheet!<br/>
     </td>
     <td>
     </td>
