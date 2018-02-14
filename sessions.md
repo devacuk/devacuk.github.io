@@ -202,19 +202,7 @@ demonstration of tools and approaches
 
 **Prerequisites for delegates attending the session:** If we do interactive stuff, laptops, network connection
 
-### 15. Introducing EduTech: best practice ideas for engaging staff and students - Dawn Rimmer, Bromsgrove School
-
-**Type of session:** Presentation/Lightning talk
-
-**Description:** Discussing some pitfalls and recommended solutions to improve on-boarding experiences for students and staff with new EduTech
-
-**Topics to be covered:** Introducing EduTech to techphobic colleagues, introducing EduTech to exams-focused students, supporting students who have limited IT skills despite smartphone attachment
-
-**Approximate length of session:** 10 mins
-
-**Prerequisites for delegates attending the session:** Nothing, except patience with FE teacher talking from a pedagogical, teaching & learning development perspective!
-
-### 16. Accessibility of maths on the web - Christian Lawson-Perfect, University of Newcastle
+### 15. Accessibility of maths on the web - Christian Lawson-Perfect, University of Newcastle
 
 **Type of session:** Lightning talk
 
@@ -226,7 +214,7 @@ demonstration of tools and approaches
 
 **Prerequisites for delegates attending the session:** None, but aimed at anyone responsible for putting maths on the web or with responsibility for students with accessibility needs
 
-### 17. The ORCID API for researcher identifiers - Monica Duke, Jisc
+### 16. The ORCID API for researcher identifiers - Monica Duke, Jisc
 
 **Type of session:** Lightning talk
 
@@ -238,7 +226,7 @@ demonstration of tools and approaches
 
 **Prerequisites for delegates attending the session:** An interest in scholarly communications and the role of researcher identifiers
 
-### 18. Student Checklist Manifesto - Arul Vaithilingam, York St John University
+### 17. Student Checklist Manifesto - Arul Vaithilingam, York St John University
 
 **Type of session:** Lightning talk
 
@@ -248,7 +236,7 @@ demonstration of tools and approaches
 
 **Approximate length of session:** 10 mins
 
-### 19. Visualising your data in Unity3D - Erick Martins Ratamero, University of Warwick
+### 18. Visualising your data in Unity3D - Erick Martins Ratamero, University of Warwick
 
 **Type of session:** Presentation
 
@@ -258,7 +246,7 @@ demonstration of tools and approaches
 
 **Approximate length of session:** 20 mins
 
-### 20.  SharePoint Migration using PowerShell - Tristian O’Brien, University of Brighton
+### 19.  SharePoint Migration using PowerShell - Tristian O’Brien, University of Brighton
 
 **Type of session:** Demo
 
@@ -270,7 +258,7 @@ demonstration of tools and approaches
 
 **Prerequisites for delegates attending the session:** None, but SharePoint and PowerShell background advantageous
  
-### 21. Mathematical e-assessment software - Christian Lawson-Perfect, University of Newcastle
+### 20. Mathematical e-assessment software - Christian Lawson-Perfect, University of Newcastle
 
 **Type of session:** Demo/Hands-on
 
@@ -282,7 +270,7 @@ demonstration of tools and approaches
 
 **Prerequisites for delegates attending the session:** Web browser on any kind of device. Some knowledge of university-level maths; parsers; infoviz will be useful
 
-### 22. Building a Learner Management System, a Just In Time approach - Jim Everett, University of Strathclyde
+### 21. Building a Learner Management System, a Just In Time approach - Jim Everett, University of Strathclyde
 
 **Type of session:** Presentation
 
@@ -295,7 +283,7 @@ Topics to be covered: Agile Project Management, .NET + JavaScript development
 
 **Approximate length of session:** 30 mins
  
-### 23. Introduction to Machine Learning - Juliette Culver, Open University
+### 22. Introduction to Machine Learning - Juliette Culver, Open University
 
 **Type of session:** Presentation
 
@@ -307,7 +295,7 @@ Topics to be covered: Agile Project Management, .NET + JavaScript development
 
 **Prerequisites for delegates attending the session:** There will be a short demo using Python 3 – for anybody wanting to follow along, downloading <a href="https://www.anaconda.com/download/">the Anaconda Python distribution</a> is recommended
 
-### 24. Academic developer culture - Alex Dutton, University of Oxford
+### 23. Academic developer culture - Alex Dutton, University of Oxford
 
 **Type of session:** Presentation + workshop
 
@@ -315,7 +303,7 @@ Topics to be covered: Agile Project Management, .NET + JavaScript development
 
 **Approximate length of session:** 60 mins
 
-### 25. Using ‘the cloud’ to support international teaching - Stephen Robinson, Lancaster University
+### 24. Using ‘the cloud’ to support international teaching - Stephen Robinson, Lancaster University
 
 **Type of session:** Presentation/Demo
 
@@ -325,7 +313,7 @@ Topics to be covered: Agile Project Management, .NET + JavaScript development
 
 **Approximate length of session:** 60 mins
 
-### 26. Knocking down silos: an introduction to the International Image Interoperability Framework (IIIF) APIs - Claire Knowles, University of Edinburgh and Glen Robson, IIIF
+### 25. Knocking down silos: an introduction to the International Image Interoperability Framework (IIIF) APIs - Claire Knowles, University of Edinburgh and Glen Robson, IIIF
 
 **Type of session:** Presentation and Demo
 
@@ -337,7 +325,7 @@ Topics to be covered: Agile Project Management, .NET + JavaScript development
 
 **Prerequisites for delegates attending the session:** An understanding of APIs
 
-### 27. Creating an elearning authoring tool for HE - Simon Date, King’s College London
+### 26. Creating an elearning authoring tool for HE - Simon Date, King’s College London
 
 **Type of session:** Presentation
 

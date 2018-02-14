@@ -77,10 +77,9 @@ For session descriptions please see <a hef="https://devacuk.github.io/sessions">
     <td valign="top">
     Lightning talks: (10 mins each)<br/>
     Chair: Martin Hamilton, Jisc<br/><br/>
-    [15] Introducing EduTech: best practice ideas for engaging staff and students - Dawn Rimmer, Bromsgrove School<br/><br/>
-    [16] Accessibility of maths on the web - Christian Lawson-Perfect, University of Newcastle<br/><br/>
-    [17] The ORCID API for researcher identifiers - Monica Duke, Jisc<br/><br/>
-    [18] Student Checklist Manifesto - Arul Vaithilingam, York St John University<br/>
+    [15] Accessibility of maths on the web - Christian Lawson-Perfect, University of Newcastle<br/><br/>
+    [16] The ORCID API for researcher identifiers - Monica Duke, Jisc<br/><br/>
+    [17] Student Checklist Manifesto - Arul Vaithilingam, York St John University<br/>
     </td>
     <td>
     </td>
@@ -127,19 +126,19 @@ For session descriptions please see <a hef="https://devacuk.github.io/sessions">
     <td valign="top">
       TECHNOLOGY<br/>
       Chair: Anna Mathews, UCISA<br/><br/>
-      [19] Visualising your data in Unity3D - Erick Martins Ratamero, University of Warwick (20 mins)<br/><br/>
-      [20] SharePoint Migration using PowerShell - SharePoint Migration using PowerShell - Tristian O’Brien, University of Brighton (40 mins)<br/>
+      [18] Visualising your data in Unity3D - Erick Martins Ratamero, University of Warwick (20 mins)<br/><br/>
+      [19] SharePoint Migration using PowerShell - SharePoint Migration using PowerShell - Tristian O’Brien, University of Brighton (40 mins)<br/>
     </td>
     <td valign="top">
       TECHNOLOGY<br/>
       Chair: Giuseppe Sollazzo, St George's University of London<br/><br/>
-      [21] Mathematical e-assessment software - Christian Lawson-Perfect, University of Newcastle (30 mins)<br/><br/>
-      [22] Building a Learner Management System: a Just in Time approach - Jim Everett, University of Strathclyde (30 mins)<br/>
+      [20] Mathematical e-assessment software - Christian Lawson-Perfect, University of Newcastle (30 mins)<br/><br/>
+      [21] Building a Learner Management System: a Just in Time approach - Jim Everett, University of Strathclyde (30 mins)<br/>
     </td>
     <td valign="top">
       TECHNOLOGY<br/>
       Chair: Martin Hamilton, Jisc<br/><br/>
-      [23] Introduction to Machine Learning - Juliette Culver, Open University (45 mins)<br/>
+      [22] Introduction to Machine Learning - Juliette Culver, Open University (45 mins)<br/>
     </td>
   </tr>
   <tr><td>1415</td><td colspan="3">Break</td></tr>
@@ -148,18 +147,18 @@ For session descriptions please see <a hef="https://devacuk.github.io/sessions">
     <td valign="top">
       DEVELOPER COMMUNITY<br/>
       Chair: Anna Mathews, UCISA<br/><br/>
-      [24] Academic developer culture - Alex Dutton, University of Oxford (60 mins)<br/>
+      [23] Academic developer culture - Alex Dutton, University of Oxford (60 mins)<br/>
     </td>
     <td valign="top">
       TECHNOLOGY<br/>
       Chair: Giuseppe Sollazzo, St George's University of London<br/><br/>
-      [25] Using ‘the cloud’ to support international teaching - Stephen Robinson, Lancaster University (60 mins)<br/>
+      [24] Using ‘the cloud’ to support international teaching - Stephen Robinson, Lancaster University (60 mins)<br/>
     </td>
     <td valign="top">
       TECHNOLOGY<br/>
       Chair: Martin Hamilton, Jisc<br/><br/>
-      [26] Knocking down silos: an introduction to the International Image Interoperability Framework (IIIF) APIs - Claire Knowles, University of Edinburgh and Glen Robson, IIIF (30 mins)<br/><br/>
-      [27] Creating an e-Learning authoring tool for HE - Simon Date, King’s College London (30 mins)<br/>
+      [25] Knocking down silos: an introduction to the International Image Interoperability Framework (IIIF) APIs - Claire Knowles, University of Edinburgh and Glen Robson, IIIF (30 mins)<br/><br/>
+      [26] Creating an e-Learning authoring tool for HE - Simon Date, King’s College London (30 mins)<br/>
     </td>
   </tr>
   <tr><td>1530</td><td>Wrap up and close</td><td></td><td></td></tr>
