@@ -178,7 +178,12 @@ discuss the issues that arise, and think of new ways of thinking about
 pitching and teaching.  I hope we'll come to a shared understanding of
 how to iterate towards a real solution to this urgent problem
 
-**Topics to be covered:**
+All the talk materials are in my [github
+repository](https://github.com/matthew-brett/dev.ac.uk).  The repository
+contains the [built
+slides](https://github.com/matthew-brett/dev.ac.uk/blob/master/devacuk_slides.pdf).
+
+**Topics to be covered / discussed in questions**
 
 * The actual role of code in science at undergraduate and graduate level
 * Current state of play in terms of training and skills
