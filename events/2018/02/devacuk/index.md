@@ -1,7 +1,7 @@
 ---
 layout: default
 title: dev.ac.uk | Agenda
-permalink: /events/2018/01/devacuk/index.html
+permalink: /events/2018/02/devacuk/index.html
 ---
 
 ## dev.ac.uk: a unique free event by and for developers
