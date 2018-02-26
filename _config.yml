@@ -25,6 +25,7 @@ description: Supported by UCISA and Jisc.
 navbar-links:
   About: "about"
   Agenda: "events/2018/02/devacuk/"
+  Home: "/"
   Links:
     - UCISA: "https://www.ucisa.ac.uk"
     - Jisc: "https://www.jisc.ac.uk"
