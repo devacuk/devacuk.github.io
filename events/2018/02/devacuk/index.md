@@ -56,8 +56,8 @@ For session descriptions please see <a hef="https://devacuk.github.io/sessions">
       PROFESSIONAL PRACTICE<br/>
       Chair: Chris Gutteridge, University of Southampton<br/><br/>
       [8] <a href="8/">Implementing Agile</a> - John Paul Jones, University of Cumbria<br/><br/>
-      [9] <a href="9/"Developing in the current higher education economic climate</a> - Joseph Baxter, University of Nottingham<br/><br/>
-      [10] <a href="10/"Test all the things! QA and CI at the OU</a> - Mark Johnson, Open University<br/><br/>
+      [9] <a href="9/">Developing in the current higher education economic climate</a> - Joseph Baxter, University of Nottingham<br/><br/>
+      [10] <a href="10/">Test all the things! QA and CI at the OU</a> - Mark Johnson, Open University<br/><br/>
       [11] <a href="11/">Dealing with Technical Debt</a> - Christopher Gutteridge, University of Southampton<br/><br/>
     <td valign="top">
       TECHNOLOGY<br/>
