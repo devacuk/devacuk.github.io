@@ -5,9 +5,7 @@ css: "/css/index.css"
 ---
 <img id="header-big-imgs" src="/images/devacuk_bg.jpg" alt="dev.ac.uk | We make stuff">
 
-UCISA and Jisc are working with the developer community at universities and colleges to combine continuing professional development with exposure to the latest in emerging technologies, giving developers the opportunity to showcase their creativity.
-
-Some facts and figures about our first event, in Birmingham in February 2018:
+UCISA and Jisc are working with the developer community at universities and colleges to combine continuing professional development with exposure to the latest in emerging technologies, giving developers the opportunity to showcase their creativity.  Some facts and figures about our first event, in Birmingham in February 2018:
 
 * 85 developers from 44 organisations
 * 30 sessions including presentations, demos, practical hands on and lightning talks
