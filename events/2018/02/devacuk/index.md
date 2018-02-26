@@ -24,7 +24,7 @@ For session descriptions please see <a hef="https://devacuk.github.io/sessions">
   </tr>
   <tr>
     <td>1030</td>
-    <td>Welcome and introduction</td>
+    <td><a href="intro/">Welcome and introduction</a></td>
     <td></td>
     <td></td>
   </tr>
