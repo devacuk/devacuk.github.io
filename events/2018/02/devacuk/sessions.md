@@ -3,7 +3,7 @@ title: dev.ac.uk | Sessions
 layout: default
 ---
 
-### 1. <a href="1/">The Life Academic</a> - Chris Gutteridge, University of Southampton
+### 1. <a href="../1/">The Life Academic</a> - Chris Gutteridge, University of Southampton
 
 **Type:** Presentation
 
@@ -13,7 +13,7 @@ layout: default
 
 **Duration:** 30 mins
  
-### 2. <a href="2/">A day in the life of a Research Software Engineer</a> - James Grant, University of Bath
+### 2. <a href="../2/">A day in the life of a Research Software Engineer</a> - James Grant, University of Bath
 
 **Type of session:** Presentation/Discussion
 
@@ -25,7 +25,7 @@ layout: default
 
 **Prerequisites for delegates attending the session:** None
 
-### 3. <a href="3/">Cambridge vs. Oxford repository showdown!</a> - Matteo Cancellieri, Open University
+### 3. <a href="../3/">Cambridge vs. Oxford repository showdown!</a> - Matteo Cancellieri, Open University
 
 **Type of session:** TBD
 
@@ -37,7 +37,7 @@ layout: default
 
 **Prerequisites for delegates attending the session:** An interest in scholarly communications and a minimal understanding of programming and API use
 
-### 4. <a href="4/">Create your first ARKit app in Unity3D</a> - Suhad Aljundi, Jisc
+### 4. <a href="../4/">Create your first ARKit app in Unity3D</a> - Suhad Aljundi, Jisc
 
 **Type of session:** presentation/hands-on
 
@@ -58,7 +58,7 @@ layout: default
   * iPhone 6S (or later) running a pre-release of iOS 11
   * A pre-release version of Xcode 9, and a patched version of Unity (Unity 5.6.1.p1 or later).
 
-### 5. <a href="5/">Creating VR for Learning Spaces in Unreal Engine</a> - Matt Ramirez, Jisc
+### 5. <a href="../5/">Creating VR for Learning Spaces in Unreal Engine</a> - Matt Ramirez, Jisc
 
 **Description:**
   This presentation will examine how you can use the VR template included with Unreal Engine to quickly
@@ -79,7 +79,7 @@ layout: default
 * Some knowledge of 3d/ game engine software desirable not essential.
 * To follow along delegates could download Blender and/or Unreal Engine
 
-### 6. <a href="6/">WordPress : getting started with the academic swiss army knife</a> - Pat Lockley, Pgogy Webstuff
+### 6. <a href="../6/">WordPress : getting started with the academic swiss army knife</a> - Pat Lockley, Pgogy Webstuff
 
 **Type of session:** Hands on
 
@@ -93,7 +93,7 @@ layout: default
 
 **Prerequisites for delegates attending the session:** I'll set up a github of downloads. Web host access would help as well
 
-### 7. <a href="7/">Behaviour Driven Development with SpecFlow and Selenium</a> - Antony Jackson, London Business School
+### 7. <a href="../7/">Behaviour Driven Development with SpecFlow and Selenium</a> - Antony Jackson, London Business School
 
 **Description:** A demo of an automated test suite we have built in C\# / .Net using SpecFlow and Selenium Web Driver. Drill down into the Gherkin, SpecFlow and Selenium Web Driver code. Discussion of the lessons learned
 
@@ -101,13 +101,13 @@ layout: default
 
 **Approximate length of session:** 60 mins
 
-### 8. <a href="8/">Implementing Agile working practices</a> - John Paul Jones, University of Cumbria
+### 8. <a href="../8/">Implementing Agile working practices</a> - John Paul Jones, University of Cumbria
 
 **Description:** A short presentation on implementing Agile working practices
 
 **Approximate length of session:** 10 mins
 
-### 9. <a href="9/">Developing in the current higher education economic climate</a> - Dr Joseph Baxter, University of Nottingham
+### 9. <a href="../9/">Developing in the current higher education economic climate</a> - Dr Joseph Baxter, University of Nottingham
 
 **Type of session:** Presentation 
 
@@ -117,7 +117,7 @@ layout: default
 
 **Approximate length of session:** 30 mins
 
-### 10. <a href="10/">Test all the things! QA and CI at the OU</a> - Mark Johnson, Open University
+### 10. <a href="../10/">Test all the things! QA and CI at the OU</a> - Mark Johnson, Open University
 
 **Type of session:** Presentation
 
@@ -127,7 +127,7 @@ layout: default
 
 **Approximate length of session:** 20 mins
 
-### 11. <a href="11/">Dealing with technical debt</a> - Christopher Gutteridge, University of Southampton
+### 11. <a href="../11/">Dealing with technical debt</a> - Christopher Gutteridge, University of Southampton
 
 **Type of session:** Presentation + workshop
 
@@ -137,7 +137,7 @@ layout: default
 
 **Approximate length of session:** 60 mins
 
-### 12. <a href="12/">Getting started with AWS</a> - Stephen Robinson, Lancaster University
+### 12. <a href="../12/">Getting started with AWS</a> - Stephen Robinson, Lancaster University
 
 **Type of session:** Presentation/Demo
 
@@ -149,7 +149,7 @@ layout: default
 
 **Prerequisites for delegates attending the session:** Interest in how to get started with AWS, early days in using AWS
 
-### 13. <a href="13/">How can we teach coding to scientists? Matthew Brett, University of Birmingham
+### 13. <a href="../13/">How can we teach coding to scientists? Matthew Brett, University of Birmingham
 
 **Type of session:** Presentation
 
@@ -191,7 +191,7 @@ demonstration of tools and approaches
 
 **Approximate length of session:** 60 mins
 
-### 14. <a href="14/">The Jupyter Ecosystem</a> - Tony Hirst, Open University
+### 14. <a href="../14/">The Jupyter Ecosystem</a> - Tony Hirst, Open University
 
 **Type of session:** Hands on
 
@@ -203,7 +203,7 @@ demonstration of tools and approaches
 
 **Prerequisites for delegates attending the session:** If we do interactive stuff, laptops, network connection
 
-### 15. <a href="15/">Accessibility of maths on the web</a> - Christian Lawson-Perfect, University of Newcastle
+### 15. <a href="../15/">Accessibility of maths on the web</a> - Christian Lawson-Perfect, University of Newcastle
 
 **Type of session:** Lightning talk
 
@@ -215,7 +215,7 @@ demonstration of tools and approaches
 
 **Prerequisites for delegates attending the session:** None, but aimed at anyone responsible for putting maths on the web or with responsibility for students with accessibility needs
 
-### 16. <a href="16/">The ORCID API for researcher identifiers</a> - Monica Duke, Jisc
+### 16. <a href="../16/">The ORCID API for researcher identifiers</a> - Monica Duke, Jisc
 
 **Type of session:** Lightning talk
 
@@ -227,7 +227,7 @@ demonstration of tools and approaches
 
 **Prerequisites for delegates attending the session:** An interest in scholarly communications and the role of researcher identifiers
 
-### 17. <a href="17/">Student Checklist Manifesto</a> - Arul Vaithilingam, York St John University
+### 17. <a href="../17/">Student Checklist Manifesto</a> - Arul Vaithilingam, York St John University
 
 **Type of session:** Lightning talk
 
@@ -237,7 +237,7 @@ demonstration of tools and approaches
 
 **Approximate length of session:** 10 mins
 
-### 18. <a href="18/">Visualising your data in Unity3D</a> - Erick Martins Ratamero, University of Warwick
+### 18. <a href="../18/">Visualising your data in Unity3D</a> - Erick Martins Ratamero, University of Warwick
 
 **Type of session:** Presentation
 
@@ -247,7 +247,7 @@ demonstration of tools and approaches
 
 **Approximate length of session:** 20 mins
 
-### 19.  <a href="19/">SharePoint Migration using PowerShell</a> - Tristian O’Brien, University of Brighton
+### 19.  <a href="../19/">SharePoint Migration using PowerShell</a> - Tristian O’Brien, University of Brighton
 
 **Type of session:** Demo
 
@@ -259,7 +259,7 @@ demonstration of tools and approaches
 
 **Prerequisites for delegates attending the session:** None, but SharePoint and PowerShell background advantageous
  
-### 20. <a href="20/">Mathematical e-assessment software</a> - Christian Lawson-Perfect, University of Newcastle
+### 20. <a href="../20/">Mathematical e-assessment software</a> - Christian Lawson-Perfect, University of Newcastle
 
 **Type of session:** Demo/Hands-on
 
@@ -271,7 +271,7 @@ demonstration of tools and approaches
 
 **Prerequisites for delegates attending the session:** Web browser on any kind of device. Some knowledge of university-level maths; parsers; infoviz will be useful
 
-### 21. <a href="21/">Building a Learner Management System, a Just In Time approach</a> - Jim Everett, University of Strathclyde
+### 21. <a href="../21/">Building a Learner Management System, a Just In Time approach</a> - Jim Everett, University of Strathclyde
 
 **Type of session:** Presentation
 
@@ -284,7 +284,7 @@ Topics to be covered: Agile Project Management, .NET + JavaScript development
 
 **Approximate length of session:** 30 mins
  
-### 22. <a href="22/">Introduction to Machine Learning</a> - Juliette Culver, Open University
+### 22. <a href="../22/">Introduction to Machine Learning</a> - Juliette Culver, Open University
 
 **Type of session:** Presentation
 
@@ -296,7 +296,7 @@ Topics to be covered: Agile Project Management, .NET + JavaScript development
 
 **Prerequisites for delegates attending the session:** There will be a short demo using Python 3 – for anybody wanting to follow along, downloading <a href="https://www.anaconda.com/download/">the Anaconda Python distribution</a> is recommended
 
-### 23. <a href="23/">Academic developer culture</a> - Alex Dutton, University of Oxford
+### 23. <a href="../23/">Academic developer culture</a> - Alex Dutton, University of Oxford
 
 **Type of session:** Presentation + workshop
 
@@ -304,7 +304,7 @@ Topics to be covered: Agile Project Management, .NET + JavaScript development
 
 **Approximate length of session:** 60 mins
 
-### 24. <a href="24/">Using ‘the cloud’ to support international teaching</a> - Stephen Robinson, Lancaster University
+### 24. <a href="../24/">Using ‘the cloud’ to support international teaching</a> - Stephen Robinson, Lancaster University
 
 **Type of session:** Presentation/Demo
 
@@ -314,7 +314,7 @@ Topics to be covered: Agile Project Management, .NET + JavaScript development
 
 **Approximate length of session:** 60 mins
 
-### 25. <a href="25/">Knocking down silos: an introduction to the International Image Interoperability Framework (IIIF) APIs</a> - Claire Knowles, University of Edinburgh and Glen Robson, IIIF
+### 25. <a href="../25/">Knocking down silos: an introduction to the International Image Interoperability Framework (IIIF) APIs</a> - Claire Knowles, University of Edinburgh and Glen Robson, IIIF
 
 **Type of session:** Presentation and Demo
 
@@ -326,7 +326,7 @@ Topics to be covered: Agile Project Management, .NET + JavaScript development
 
 **Prerequisites for delegates attending the session:** An understanding of APIs
 
-### 26. <a href="26/">Creating an elearning authoring tool for HE</a> - Simon Date, King’s College London
+### 26. <a href="../26/">Creating an elearning authoring tool for HE</a> - Simon Date, King’s College London
 
 **Type of session:** Presentation
 
