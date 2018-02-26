@@ -1,6 +1,8 @@
 ---
 layout: default
 title: dev.ac.uk | Agenda
+redirect_to:
+  - /events/2018/02/devacuk/
 ---
 _NB: Agenda still subject to final changes!_
 

@@ -1,6 +1,8 @@
 ---
 title: dev.ac.uk | Sessions
 layout: default
+redirect_to:
+  - /events/2018/02/devacuk/sessions/
 ---
 
 _NB: Final agenda still subject to change!_
