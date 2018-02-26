@@ -32,7 +32,7 @@ For session descriptions please see <a hef="https://devacuk.github.io/sessions">
     <td valign="top">
       RESEARCH SUPPORT<br/>
       Chair: Chris Gutteridge, University of Southampton<br/><br/>
-      [1] <a href="1a.md">The life academic</a> - Chris Gutteridge, University of Southampton<br/><br/>
+      [1] <a href="1a/">The life academic</a> - Chris Gutteridge, University of Southampton<br/><br/>
       [2] A day in the life of a Research Software Engineer - James Grant, University of Bath<br/><br/>
       [3] Cambridge vs. Oxford repository showdown! - Matteo Cancellieri, Open University<br/><br/>
     </td>
