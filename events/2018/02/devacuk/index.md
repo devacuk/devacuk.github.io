@@ -6,9 +6,9 @@ permalink: /events/2018/02/devacuk/index.html
 
 ## dev.ac.uk: a unique free event by and for developers
 
-UCISA and Jisc are working with the developer community to create a unique event that combines continuing professional development with exposure to the latest in emerging technologies, and gives developers who attend the opportunity to showcase their creativity
+UCISA and Jisc are working with the developer community to create a unique event that combines continuing professional development with exposure to the latest in emerging technologies, and gives developers who attend the opportunity to showcase their creativity.
 
-For session descriptions please see <a hef="https://devacuk.github.io/sessions">https://devacuk.github.io/sessions</a>
+A full list of <a hef="https://devacuk.github.io/events/2018/02/devacuk/sessions/">session descriptions</a> is also available.
 
 <table>
   <tr><th colspan="4">Day One:</th></tr>
