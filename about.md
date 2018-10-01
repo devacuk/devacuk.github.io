@@ -1,32 +1,22 @@
 ---
 layout: page
 title: About dev.ac.uk
-subtitle: By and for developers
+css: "/css/index.css"
 ---
-# We make stuff
-## dev.ac.uk: a unique free event by and for developers
+UCISA and Jisc are working with the developer community at universities and colleges to combine continuing professional development with exposure to the latest in emerging technologies, giving developers the opportunity to showcase their creativity. Here are a few facts and figures about our events:
 
-UCISA and Jisc are working with the developer community to create a unique event that combines continuing professional development with exposure to the latest in emerging technologies, and gives developers who attend the opportunity to showcase their creativity.
- 
-__Are you... ?__
- * A Moodle hacking Learning Technologist?
- * A Research Software Engineer, writing the code that powers modern science?
- * An Oracle guru building mission critical systems for your institution?
- * A scripting sysadmin, orchestrating on-premise and cloud services?
- * Running, or in the throes of setting up, a DevOps capability at your institution?
- * Looking at how to deal with technical debt in your university or college?
+__Chatbot Hackathon in London, September 2018__
 
-__What:__
-: Two days of inspiring talks from developers at institutions
-: Hands on with new and emerging tech from the Jisc DigiLab
-: Unconference strand - a blank slate to make your own!
+* 53 developers from 36 organisations attended
+* Representation from Amazon, Google, IBM and Microsoft
 
-__Where:__
-: Birmingham
+__dev.ac.uk event in Birmingham, February 2018__
 
-__When:__
-: Thursday 15th - Friday 16th February 2018
+* 85 developers from 44 organisations attended
+* 30 sessions including presentations, demos, practical hands on and lightning talks
+* Massive social media footprint, with over 600,000 impressions and a reach of over 200,000 people
 
-__Cost:__
-: Free to attend for institutional developers, including meals, refreshments and accommodation (travel costs not included)
+Materials from the event are available from this site, including slide decks and supporting resources. Please use the <a href="/events/2018/02/devacuk/">agenda</a> link to click through to them.
+
+![Jisc](/images/jisc-logo-small.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![UCISA](/images/ucisa-logo-small.png) 
 
