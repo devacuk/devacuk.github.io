@@ -3,7 +3,7 @@ layout: single
 title: dev.ac.uk events
 css: "/css/index.css"
 ---
-UCISA and Jisc are working with the developer community at universities and colleges to combine continuing professional development with exposure to the latest in emerging technologies, giving developers the opportunity to showcase their creativity. Here are our upcoming and past events:
+Here are our upcoming and past events:
 
 * Nov 2018: Microsoft chatbot workshop, TBC
 * Nov 2018: IBM chatbot workshop, Bolton College
