@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: About dev.ac.uk
 css: "/css/index.css"
 ---

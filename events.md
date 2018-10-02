@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: dev.ac.uk events
 css: "/css/index.css"
 ---
