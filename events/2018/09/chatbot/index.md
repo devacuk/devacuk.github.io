@@ -72,7 +72,3 @@ permalink: /events/2018/09/chatbot/index.html
     <td>Close</td>
     <td></td>
     <td></td>
-  </tr>
-</table>
-
-
